@@ -1,37 +1,37 @@
 [{
     "content": "Live TV", 
-    "poster": "https://i.imgur.com/gRvEH4v.png", 
-    "link": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8", 
+    "poster": "", 
+    "link": "https://594a365b4a1b2.streamlock.net/matele/live/chunklist.m3u8", 
     "id": "M3U8", 
     "name": "AlbUK TV"
   },{
     "content": "Live TV", 
-    "poster": "http://albepg.com/tvlogi/Apollon%20TV.png", 
-    "link": "http://185.80.224.14:1935/live/smil:web.smil/playlist.m3u8", 
+    "poster": "", 
+    "link": "https://tvl-live-prp.fl.freecaster.net/live/actv/actv.m3u8", 
     "id": "M3U8", 
     "name": "Apollon TV"
   },{
     "content": "Live TV", 
-    "poster": "https://i.imgur.com/Q1UOlkA.png", 
-    "link": "http://5.135.92.131:1935/live/euroAl/chunklist.m3u8", 
+    "poster": "", 
+    "link": "http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8", 
     "id": "M3U8", 
     "name": "EUROAL"
   },{
     "content": "Live TV", 
-    "poster": "https://drive.google.com/uc?export=download&id=1f3O4Q8tgBsUkDVjwErq1uEMrzOmw7e-A", 
-    "link": "http://5.135.92.133:52841/out/u/228_1.m3u8", 
+    "poster": "", 
+    "link": "https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8", 
     "id": "M3U8", 
     "name": "FAX News"
   },{
     "content": "Live TV", 
-    "poster": "https://i.imgur.com/Q1UOlkA.png", 
-    "link": "http://5.135.92.131:1935/live/euroAl/chunklist.m3u8", 
+    "poster": "", 
+    "link": "http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8", 
     "id": "M3U8", 
     "name": "EUROAL"
   },{
     "content": "Live TV", 
     "poster": "https://i.imgur.com/PWGMnzW.jpg", 
-    "link": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8", 
+    "link": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8", 
     "id": "M3U8", 
     "name": "News 24"
   },{
@@ -46,10 +46,4 @@
     "link": "http://5.135.92.133:52841/out/u/521_1.m3u8", 
     "id": "M3U8", 
     "name": "Ora News"
-  },{
-    "content": "Live TV", 
-    "poster": "http://www.albepg.com/tvlogi/Rrokum%20TV.png", 
-    "link": "http://5.135.92.133:52841/out/u/189_1.m3u8", 
-    "id": "M3U8", 
-    "name": "Rrokum TV"
   }]
