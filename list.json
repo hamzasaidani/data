@@ -46,4 +46,52 @@
     "link": "http://5.135.92.133:52841/out/u/521_1.m3u8", 
     "id": "M3U8", 
     "name": "Blindfire"
+  },{
+    "content": "Live TV", 
+    "poster": "https://vfstreamingfr.com/wp-content/uploads/2020/07/r9Bspq7eN4UexrVNL3MewbiHsyM-185x278.jpg", 
+    "link": "https://594a365b4a1b2.streamlock.net/matele/live/chunklist.m3u8", 
+    "id": "M3U8", 
+    "name": "Dirt Music"
+  },{
+    "content": "Live TV", 
+    "poster": "https://vfstreamingfr.com/wp-content/uploads/2020/07/1I1Rf49xgowxyLGBP4PRZXPC7ZP-185x278.jpg", 
+    "link": "https://tvl-live-prp.fl.freecaster.net/live/actv/actv.m3u8", 
+    "id": "M3U8", 
+    "name": "Apollon"
+  },{
+    "content": "Live TV", 
+    "poster": "https://vfstreamingfr.com/wp-content/uploads/2020/12/ih3ZHVQMV59fSOxLYpSQuCKC3I2-185x278.jpg", 
+    "link": "http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8", 
+    "id": "M3U8", 
+    "name": "Spare Parts"
+  },{
+    "content": "Live TV", 
+    "poster": "https://vfstreamingfr.com/wp-content/uploads/2020/12/m90bZbs4bvUOFsSTk5ZtMz4tJ8f-185x278.jpg", 
+    "link": "https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8", 
+    "id": "M3U8", 
+    "name": "Petit Paysan"
+  },{
+    "content": "Live TV", 
+    "poster": "https://vfstreamingfr.com/wp-content/uploads/2020/12/v6NodCMzqilx0Xw541P65WFnDfE-185x278.jpg", 
+    "link": "http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8", 
+    "id": "M3U8", 
+    "name": "Matrix 2020"
+  },{
+    "content": "Live TV", 
+    "poster": "https://vfstreamingfr.com/wp-content/uploads/2020/12/2yeqogPl1xZXhd3mYY6RMdq294T-185x278.jpg", 
+    "link": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8", 
+    "id": "M3U8", 
+    "name": "La mucca nel cielo"
+  },{
+    "content": "Live TV", 
+    "poster": "https://vfstreamingfr.com/wp-content/uploads/2020/12/9IJ8acPUXVoLRrpy5Z4Ml1BUlX3-185x278.jpg", 
+    "link": "rtmp://live.tvkoha.tv:1935/live/koha/livestream", 
+    "id": "M3U8", 
+    "name": "Ondine"
+  },{
+    "content": "Live TV", 
+    "poster": "https://vfstreamingfr.com/wp-content/uploads/2020/12/ijwUja8ignGUEQKvdAg9TpqO8ei-185x278.jpg", 
+    "link": "http://5.135.92.133:52841/out/u/521_1.m3u8", 
+    "id": "M3U8", 
+    "name": "Blindfire"
   }]
