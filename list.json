@@ -1,25 +1,55 @@
 [{
-    "content": "Kjo është, Hercai (Rejan) – Episodi 208 - Ju urojm shikim të këndshëm.", 
-    "poster": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg", 
-    "link": "https://archive.org/download/quranarabicfrenchmp4/001-Al-Fatihah-French-Mishary-AlAfasy.mp4", 
-    "id": "Aventurë, Drame, Familje, Romanc", 
-    "name": "Hercai (Rejan) – Episodi 208"
+    "content": "Live TV", 
+    "poster": "https://i.imgur.com/gRvEH4v.png", 
+    "link": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8", 
+    "id": "M3U8", 
+    "name": "AlbUK TV"
   },{
-    "content": "Kjo është, Hercai (Rejan) – Episodi 207 - Ju urojm shikim të këndshëm.", 
-    "poster": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg", 
-    "link": "https://594a365b4a1b2.streamlock.net/matele/live/chunklist.m3u8", 
-    "id": "Aventurë, Drame, Familje, Romanc", 
-    "name": "Hercai (Rejan) – Episodi 207"
+    "content": "Live TV", 
+    "poster": "http://albepg.com/tvlogi/Apollon%20TV.png", 
+    "link": "http://185.80.224.14:1935/live/smil:web.smil/playlist.m3u8", 
+    "id": "M3U8", 
+    "name": "Apollon TV"
   },{
-    "content": "Kjo është, Hercai (Rejan) – Episodi 206 - Ju urojm shikim të këndshëm.", 
-    "poster": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg", 
-    "link": "https://www683.ff-02.com/token=lNaAhDJcRZ825WkjmDIFJA/1609709923/109.136.0.0/140/9/f0/677dd9e2cdb7cb143a1f280d14ccef09-480p.mp4", 
-    "id": "Aventurë, Drame, Familje, Romanc", 
-    "name": "Hercai (Rejan) – Episodi 206"
+    "content": "Live TV", 
+    "poster": "https://i.imgur.com/Q1UOlkA.png", 
+    "link": "http://5.135.92.131:1935/live/euroAl/chunklist.m3u8", 
+    "id": "M3U8", 
+    "name": "EUROAL"
   },{
-    "content": "Kjo është, Hercai (Rejan) – Episodi 205 - Ju urojm shikim të këndshëm.", 
-    "poster": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg", 
-    "link": "https://www676.ff-02.com/token=FGGmN8rVB89fP6tRwCvSzg/1609684528/109.136.0.0/139/7/48/42a25bf9a388aecf1bc00c778bc6d487-480p.mp4", 
-    "id": "Aventurë, Drame, Familje, Romanc", 
-    "name": "Hercai (Rejan) – Episodi 205"
- }]
+    "content": "Live TV", 
+    "poster": "https://drive.google.com/uc?export=download&id=1f3O4Q8tgBsUkDVjwErq1uEMrzOmw7e-A", 
+    "link": "http://5.135.92.133:52841/out/u/228_1.m3u8", 
+    "id": "M3U8", 
+    "name": "FAX News"
+  },{
+    "content": "Live TV", 
+    "poster": "https://i.imgur.com/Q1UOlkA.png", 
+    "link": "http://5.135.92.131:1935/live/euroAl/chunklist.m3u8", 
+    "id": "M3U8", 
+    "name": "EUROAL"
+  },{
+    "content": "Live TV", 
+    "poster": "https://i.imgur.com/PWGMnzW.jpg", 
+    "link": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8", 
+    "id": "M3U8", 
+    "name": "News 24"
+  },{
+    "content": "Live TV", 
+    "poster": "https://i.imgur.com/AJ472ot.png", 
+    "link": "rtmp://live.tvkoha.tv:1935/live/koha/livestream", 
+    "id": "M3U8", 
+    "name": "Koha TV"
+  },{
+    "content": "Live TV", 
+    "poster": "http://www.oranews.tv/themes/oranewstheme/assets/img/logoora.png", 
+    "link": "http://5.135.92.133:52841/out/u/521_1.m3u8", 
+    "id": "M3U8", 
+    "name": "Ora News"
+  },{
+    "content": "Live TV", 
+    "poster": "http://www.albepg.com/tvlogi/Rrokum%20TV.png", 
+    "link": "http://5.135.92.133:52841/out/u/189_1.m3u8", 
+    "id": "M3U8", 
+    "name": "Rrokum TV"
+  }]
