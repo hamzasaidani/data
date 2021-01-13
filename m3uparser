@@ -1,0 +1,108 @@
+package com.example.m3uParser
+
+import android.os.Bundle
+import android.util.Log
+import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
+import org.json.JSONArray
+import org.json.JSONObject
+import java.io.*
+import java.net.HttpURLConnection
+import java.net.MalformedURLException
+import java.net.ProtocolException
+import java.net.URL
+
+class MainActivity : AppCompatActivity() {
+
+    val EXTM3U = "#EXTM3U"
+    val EXTINF = "#EXTINF:"
+    val EXTLOGO = "tvg-logo"
+    val EXTURL = "https://"
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val sh = HttpHandler()
+        val stream: String =
+            sh.makeServiceCall("https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv_usuk.m3u")
+        val linesArray: Array<String> =
+            stream.split(EXTINF).toTypedArray()
+        val ar = JSONArray()
+        for (currLine in linesArray) {
+            if (!currLine.contains(EXTM3U)) {
+                val ob = JSONObject()
+                val dataArray = currLine.split(",").toTypedArray()
+                try {
+                    val name = dataArray[1].substring(
+                        0,
+                        dataArray[1].indexOf(EXTURL)
+                    ).replace("\n", "")
+                    val url: String =
+                        dataArray[1].substring(dataArray[1].indexOf(EXTURL))
+                            .replace("\n", "").replace("\r", "")
+                    ob.put("name", name)
+                    ob.put("url", url)
+                    if (dataArray[0].contains(EXTLOGO)) {
+                        val logo: String =
+                            dataArray[0].substring(dataArray[0].indexOf(EXTLOGO) + EXTLOGO.length)
+                                .replace("=", "").replace("\"", "").replace("\n", "")
+                        ob.put("logo", logo)
+                    } else {
+                        ob.put("logo", "")
+                    }
+                    ar.put(ob)
+                } catch (fdfd: Exception) {
+                    Log.e("Google", "Error: " + fdfd.fillInStackTrace())
+                }
+            }
+        }
+    }
+}
+
+class HttpHandler {
+    fun makeServiceCall(reqUrl: String): String {
+        var response = ""
+        try {
+            val url = URL(reqUrl)
+            val conn: HttpURLConnection = url.openConnection() as HttpURLConnection
+            conn.requestMethod = "GET"
+            // read the response
+            val `in`: InputStream = BufferedInputStream(conn.inputStream)
+            response = convertStreamToString(`in`)
+        } catch (e: MalformedURLException) {
+            Log.e(TAG, "MalformedURLException: ")
+        } catch (e: ProtocolException) {
+            Log.e(TAG, "ProtocolException: ")
+        } catch (e: IOException) {
+            Log.e(TAG, "IOException: ")
+        } catch (e: java.lang.Exception) {
+            Log.e(TAG, "Exception: " + e.message)
+        }
+        return response
+    }
+
+    private fun convertStreamToString(inputstream: InputStream): String {
+        val reader = BufferedReader(InputStreamReader(inputstream))
+        val sb = StringBuilder()
+        var line: String?
+        try {
+            while (reader.readLine().also { line = it } != null) {
+                sb.append(line).append('\n')
+            }
+        } catch (e: IOException) {
+            e.printStackTrace()
+        } finally {
+            try {
+                inputstream.close()
+            } catch (e: IOException) {
+                e.printStackTrace()
+            }
+        }
+        return sb.toString()
+    }
+
+    companion object {
+        private val TAG = HttpHandler::class.java.simpleName
+    }
+}
