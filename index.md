@@ -1,10 +1,10 @@
 ## Welcome to logotv.app
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you are logotv is always with you, the app will run on phone, tablet and tv android based os.
 
-### Markdown
+### Json and M3u8
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Json is a lightweight and easy-to-use for styling your data.
 
 ```markdown
 Syntax highlighted code block
@@ -26,10 +26,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Dark Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hamzasaidani/data/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We use the layout and styles from the androidx dark theme, this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with the app? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
