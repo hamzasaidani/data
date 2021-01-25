@@ -149,16 +149,1055 @@
     }
 
     ]
-  },
-  {
-    "categoryID": 2,
+  },{
+    "categoryID": 1,
+    "categoryName": "Drama",
+    "itemList": [
+{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "WandaVision",
+      "itemDescrip": "Wanda Maximoff and Vision%97two super-powered beings living idealized suburban lives%97begin to suspect that everything is not as it seems.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/e24d7a6ac711ef5423606dd4b940a5ea/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/09/21/08//19589942_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Outside the Wire",
+      "itemDescrip": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/271177f7589752cb19917de85e61c182/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img4.acsta.net/c_210_280/pictures/21/01/07/10/54/4394921.jpg",
+      "itemRating": "6.7",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/21/01/06/18//19591043_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "News of the World",
+      "itemDescrip": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610582400/3ab1c3a3e6ef5d42db04e8a52980287c/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/20/10/23/09/16/1906110.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/10/22/17//19589608_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Wonder Woman 1984",
+      "itemDescrip": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/d72f63545699d4d7244303d05c44285a/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "itemRating": "7.1",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/12/07/09//19590818_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Riverdale",
+      "itemDescrip": "Set in the present%2C the series offers a bold%2C subversive take on Archie%2C Betty%2C Veronica and their friends%2C exploring the surreality of small-town life%2C the darkness and weirdness bubbling beneath Riverdale%92s wholesome facade.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1611187200/092fa8a870f22717fa8aa9a3553f1477/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/05/07/09/19578287_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Soul",
+      "itemDescrip": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/6cf958a9807f4329d8bbb584fb20e516/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "itemRating": "8.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/11/10/12//19590528_hd_013.mp4"
+    },
+ {
+      "itemID": "MYSTREAM",
+      "itemName": "INTRUSION",
+      "itemDescrip": "Francis Watts est riche, beau et célibataire. Alors où est le problème ? Le problème, c'est qu'il a 60 ans et qu'il n'a pas accompli grand-chose. Dans un effort désespéré pour recommencer une nouvelle vie, ce philanthrope drogué aux pilules va s'immiscer dans la vie d'un jeune couple.",
+      "itemUrl": "https://mstream.tech/clowv3rybz44",
+      "itemImage": "https://fr.web.img5.acsta.net/c_310_420/pictures/15/11/20/09/16/476716.jpg",
+      "itemRating": "6.2",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/19/08/27/16//19585382_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "C'EST BEAU LA VIE QUAND ON Y PENSE",
+      "itemDescrip": "Loïc, un ancien pilote de rallye, et Hugo, un jeune homme complètement déjanté, sont deux inconnus que tout oppose. Un événement hors du commun va pourtant les réunir. D’abord explosive, leur rencontre va marquer le début d'une relation pleine de surprises.",
+      "itemUrl": "https://mstream.tech/zszw0t5bsqb4",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/02/24/14/18/327781.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/02/27/12/19568866_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "NOS ÂMES LA NUIT",
+      "itemDescrip": "Voisins depuis des décennies, tous deux veufs, seuls dans leurs grandes maisons, Addie et Louis ne sont que très peu en contact. Un jour, Addie rend une visite surprise à Louis.",
+      "itemUrl": "https://mstream.tech/zu6huqfqhg5g",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/17/09/15/13/03/0368624.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/09/13/18/19573971_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "LES GARDIENS DE LA GALAXIE 2",
+      "itemDescrip": "Musicalement accompagné de la Awesome Mixtape n°2 (la musique qu'écoute Star-Lord dans le film), Les Gardiens de la galaxie 2 poursuit les aventures de l'équipe alors qu'elle traverse les confins du cosmos. Les gardiens doivent combattre pour rester unis alors qu'ils découvrent les mystères de la filiation de Peter Quill. Les vieux ennemis vont devenir de nouveaux alliés et des personnages bien connus des fans de comics vont venir aider nos héros et continuer à étendre l'univers Marvel.",
+      "itemUrl": "https://mstream.tech/mm6csp6lk6up",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/03/01/11/10/438835.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/03/02/11/19568905_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "COLETTE",
+      "itemDescrip": "1893. Malgré leurs quatorze ans d’écart, Gabrielle Sidonie Colette, jeune fille à l’esprit rebelle, épouse Willy, écrivain aussi égocentrique que séducteur. Grâce à ses relations, elle découvre le milieu artistique parisien qui stimule sa propre créativité. Sachant repérer les talents mieux que quiconque, Willy autorise Colette à écrire – à condition qu’il signe ses romans à sa place. Suite au triomphe de la série des Claudine, il ne tarde d’ailleurs pas à devenir célèbre. Pourtant, tandis que les infidélités de Willy pèsent sur le couple, Colette souffre de plus en plus de ne pas être reconnue pour son œuvre…",
+      "itemUrl": "https://mstream.tech/euud6zkd4rsa",
+      "itemImage": "https://fr.web.img2.acsta.net/c_310_420/pictures/18/10/12/16/21/5667607.jpg",
+      "itemRating": "5.9",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "La Platforme",
+      "itemDescrip": "Dans une prison-tour, une dalle transportant de la nourriture descend d'étage en étage, un système qui favorise les premiers servis et affame les derniers.",
+      "itemUrl": "https://mstream.tech/xc7qiq1qa7nt",
+      "itemImage": "https://statics-media.streamcomplet.nu/mrw1YHD26RLlHHDTiL.jpg",
+      "itemRating": "4.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/03/31/14//19588109_hd_013.mp4"
+    },{
+      "itemID": "SHQIP",
+      "itemName": "Hercai (Rejan) – Episodi 214",
+      "itemDescrip": "Kjo është, Hercai (Rejan) – Episodi 214 - Ju urojm shikim të këndshëm.",
+      "itemUrl": "z715msjdwnz7jj2",
+      "itemImage": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg",
+      "itemRating": "10",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    }
+
+    ]
+  },{
+    "categoryID": 1,
+    "categoryName": "Horror",
+    "itemList": [
+{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "WandaVision",
+      "itemDescrip": "Wanda Maximoff and Vision%97two super-powered beings living idealized suburban lives%97begin to suspect that everything is not as it seems.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/e24d7a6ac711ef5423606dd4b940a5ea/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/09/21/08//19589942_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Outside the Wire",
+      "itemDescrip": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/271177f7589752cb19917de85e61c182/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img4.acsta.net/c_210_280/pictures/21/01/07/10/54/4394921.jpg",
+      "itemRating": "6.7",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/21/01/06/18//19591043_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "News of the World",
+      "itemDescrip": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610582400/3ab1c3a3e6ef5d42db04e8a52980287c/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/20/10/23/09/16/1906110.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/10/22/17//19589608_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Wonder Woman 1984",
+      "itemDescrip": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/d72f63545699d4d7244303d05c44285a/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "itemRating": "7.1",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/12/07/09//19590818_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Riverdale",
+      "itemDescrip": "Set in the present%2C the series offers a bold%2C subversive take on Archie%2C Betty%2C Veronica and their friends%2C exploring the surreality of small-town life%2C the darkness and weirdness bubbling beneath Riverdale%92s wholesome facade.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1611187200/092fa8a870f22717fa8aa9a3553f1477/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/05/07/09/19578287_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Soul",
+      "itemDescrip": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/6cf958a9807f4329d8bbb584fb20e516/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "itemRating": "8.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/11/10/12//19590528_hd_013.mp4"
+    },
+ {
+      "itemID": "MYSTREAM",
+      "itemName": "INTRUSION",
+      "itemDescrip": "Francis Watts est riche, beau et célibataire. Alors où est le problème ? Le problème, c'est qu'il a 60 ans et qu'il n'a pas accompli grand-chose. Dans un effort désespéré pour recommencer une nouvelle vie, ce philanthrope drogué aux pilules va s'immiscer dans la vie d'un jeune couple.",
+      "itemUrl": "https://mstream.tech/clowv3rybz44",
+      "itemImage": "https://fr.web.img5.acsta.net/c_310_420/pictures/15/11/20/09/16/476716.jpg",
+      "itemRating": "6.2",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/19/08/27/16//19585382_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "C'EST BEAU LA VIE QUAND ON Y PENSE",
+      "itemDescrip": "Loïc, un ancien pilote de rallye, et Hugo, un jeune homme complètement déjanté, sont deux inconnus que tout oppose. Un événement hors du commun va pourtant les réunir. D’abord explosive, leur rencontre va marquer le début d'une relation pleine de surprises.",
+      "itemUrl": "https://mstream.tech/zszw0t5bsqb4",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/02/24/14/18/327781.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/02/27/12/19568866_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "NOS ÂMES LA NUIT",
+      "itemDescrip": "Voisins depuis des décennies, tous deux veufs, seuls dans leurs grandes maisons, Addie et Louis ne sont que très peu en contact. Un jour, Addie rend une visite surprise à Louis.",
+      "itemUrl": "https://mstream.tech/zu6huqfqhg5g",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/17/09/15/13/03/0368624.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/09/13/18/19573971_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "LES GARDIENS DE LA GALAXIE 2",
+      "itemDescrip": "Musicalement accompagné de la Awesome Mixtape n°2 (la musique qu'écoute Star-Lord dans le film), Les Gardiens de la galaxie 2 poursuit les aventures de l'équipe alors qu'elle traverse les confins du cosmos. Les gardiens doivent combattre pour rester unis alors qu'ils découvrent les mystères de la filiation de Peter Quill. Les vieux ennemis vont devenir de nouveaux alliés et des personnages bien connus des fans de comics vont venir aider nos héros et continuer à étendre l'univers Marvel.",
+      "itemUrl": "https://mstream.tech/mm6csp6lk6up",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/03/01/11/10/438835.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/03/02/11/19568905_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "COLETTE",
+      "itemDescrip": "1893. Malgré leurs quatorze ans d’écart, Gabrielle Sidonie Colette, jeune fille à l’esprit rebelle, épouse Willy, écrivain aussi égocentrique que séducteur. Grâce à ses relations, elle découvre le milieu artistique parisien qui stimule sa propre créativité. Sachant repérer les talents mieux que quiconque, Willy autorise Colette à écrire – à condition qu’il signe ses romans à sa place. Suite au triomphe de la série des Claudine, il ne tarde d’ailleurs pas à devenir célèbre. Pourtant, tandis que les infidélités de Willy pèsent sur le couple, Colette souffre de plus en plus de ne pas être reconnue pour son œuvre…",
+      "itemUrl": "https://mstream.tech/euud6zkd4rsa",
+      "itemImage": "https://fr.web.img2.acsta.net/c_310_420/pictures/18/10/12/16/21/5667607.jpg",
+      "itemRating": "5.9",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "La Platforme",
+      "itemDescrip": "Dans une prison-tour, une dalle transportant de la nourriture descend d'étage en étage, un système qui favorise les premiers servis et affame les derniers.",
+      "itemUrl": "https://mstream.tech/xc7qiq1qa7nt",
+      "itemImage": "https://statics-media.streamcomplet.nu/mrw1YHD26RLlHHDTiL.jpg",
+      "itemRating": "4.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/03/31/14//19588109_hd_013.mp4"
+    },{
+      "itemID": "SHQIP",
+      "itemName": "Hercai (Rejan) – Episodi 214",
+      "itemDescrip": "Kjo është, Hercai (Rejan) – Episodi 214 - Ju urojm shikim të këndshëm.",
+      "itemUrl": "z715msjdwnz7jj2",
+      "itemImage": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg",
+      "itemRating": "10",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    }
+
+    ]
+  },{
+    "categoryID": 1,
+    "categoryName": "Documentary",
+    "itemList": [
+{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "WandaVision",
+      "itemDescrip": "Wanda Maximoff and Vision%97two super-powered beings living idealized suburban lives%97begin to suspect that everything is not as it seems.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/e24d7a6ac711ef5423606dd4b940a5ea/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/09/21/08//19589942_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Outside the Wire",
+      "itemDescrip": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/271177f7589752cb19917de85e61c182/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img4.acsta.net/c_210_280/pictures/21/01/07/10/54/4394921.jpg",
+      "itemRating": "6.7",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/21/01/06/18//19591043_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "News of the World",
+      "itemDescrip": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610582400/3ab1c3a3e6ef5d42db04e8a52980287c/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/20/10/23/09/16/1906110.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/10/22/17//19589608_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Wonder Woman 1984",
+      "itemDescrip": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/d72f63545699d4d7244303d05c44285a/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "itemRating": "7.1",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/12/07/09//19590818_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Riverdale",
+      "itemDescrip": "Set in the present%2C the series offers a bold%2C subversive take on Archie%2C Betty%2C Veronica and their friends%2C exploring the surreality of small-town life%2C the darkness and weirdness bubbling beneath Riverdale%92s wholesome facade.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1611187200/092fa8a870f22717fa8aa9a3553f1477/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/05/07/09/19578287_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Soul",
+      "itemDescrip": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/6cf958a9807f4329d8bbb584fb20e516/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "itemRating": "8.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/11/10/12//19590528_hd_013.mp4"
+    },
+ {
+      "itemID": "MYSTREAM",
+      "itemName": "INTRUSION",
+      "itemDescrip": "Francis Watts est riche, beau et célibataire. Alors où est le problème ? Le problème, c'est qu'il a 60 ans et qu'il n'a pas accompli grand-chose. Dans un effort désespéré pour recommencer une nouvelle vie, ce philanthrope drogué aux pilules va s'immiscer dans la vie d'un jeune couple.",
+      "itemUrl": "https://mstream.tech/clowv3rybz44",
+      "itemImage": "https://fr.web.img5.acsta.net/c_310_420/pictures/15/11/20/09/16/476716.jpg",
+      "itemRating": "6.2",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/19/08/27/16//19585382_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "C'EST BEAU LA VIE QUAND ON Y PENSE",
+      "itemDescrip": "Loïc, un ancien pilote de rallye, et Hugo, un jeune homme complètement déjanté, sont deux inconnus que tout oppose. Un événement hors du commun va pourtant les réunir. D’abord explosive, leur rencontre va marquer le début d'une relation pleine de surprises.",
+      "itemUrl": "https://mstream.tech/zszw0t5bsqb4",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/02/24/14/18/327781.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/02/27/12/19568866_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "NOS ÂMES LA NUIT",
+      "itemDescrip": "Voisins depuis des décennies, tous deux veufs, seuls dans leurs grandes maisons, Addie et Louis ne sont que très peu en contact. Un jour, Addie rend une visite surprise à Louis.",
+      "itemUrl": "https://mstream.tech/zu6huqfqhg5g",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/17/09/15/13/03/0368624.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/09/13/18/19573971_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "LES GARDIENS DE LA GALAXIE 2",
+      "itemDescrip": "Musicalement accompagné de la Awesome Mixtape n°2 (la musique qu'écoute Star-Lord dans le film), Les Gardiens de la galaxie 2 poursuit les aventures de l'équipe alors qu'elle traverse les confins du cosmos. Les gardiens doivent combattre pour rester unis alors qu'ils découvrent les mystères de la filiation de Peter Quill. Les vieux ennemis vont devenir de nouveaux alliés et des personnages bien connus des fans de comics vont venir aider nos héros et continuer à étendre l'univers Marvel.",
+      "itemUrl": "https://mstream.tech/mm6csp6lk6up",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/03/01/11/10/438835.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/03/02/11/19568905_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "COLETTE",
+      "itemDescrip": "1893. Malgré leurs quatorze ans d’écart, Gabrielle Sidonie Colette, jeune fille à l’esprit rebelle, épouse Willy, écrivain aussi égocentrique que séducteur. Grâce à ses relations, elle découvre le milieu artistique parisien qui stimule sa propre créativité. Sachant repérer les talents mieux que quiconque, Willy autorise Colette à écrire – à condition qu’il signe ses romans à sa place. Suite au triomphe de la série des Claudine, il ne tarde d’ailleurs pas à devenir célèbre. Pourtant, tandis que les infidélités de Willy pèsent sur le couple, Colette souffre de plus en plus de ne pas être reconnue pour son œuvre…",
+      "itemUrl": "https://mstream.tech/euud6zkd4rsa",
+      "itemImage": "https://fr.web.img2.acsta.net/c_310_420/pictures/18/10/12/16/21/5667607.jpg",
+      "itemRating": "5.9",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "La Platforme",
+      "itemDescrip": "Dans une prison-tour, une dalle transportant de la nourriture descend d'étage en étage, un système qui favorise les premiers servis et affame les derniers.",
+      "itemUrl": "https://mstream.tech/xc7qiq1qa7nt",
+      "itemImage": "https://statics-media.streamcomplet.nu/mrw1YHD26RLlHHDTiL.jpg",
+      "itemRating": "4.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/03/31/14//19588109_hd_013.mp4"
+    },{
+      "itemID": "SHQIP",
+      "itemName": "Hercai (Rejan) – Episodi 214",
+      "itemDescrip": "Kjo është, Hercai (Rejan) – Episodi 214 - Ju urojm shikim të këndshëm.",
+      "itemUrl": "z715msjdwnz7jj2",
+      "itemImage": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg",
+      "itemRating": "10",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    }
+
+    ]
+  },{
+    "categoryID": 1,
+    "categoryName": "Whatever",
+    "itemList": [
+{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "WandaVision",
+      "itemDescrip": "Wanda Maximoff and Vision%97two super-powered beings living idealized suburban lives%97begin to suspect that everything is not as it seems.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/e24d7a6ac711ef5423606dd4b940a5ea/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/09/21/08//19589942_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Outside the Wire",
+      "itemDescrip": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/271177f7589752cb19917de85e61c182/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img4.acsta.net/c_210_280/pictures/21/01/07/10/54/4394921.jpg",
+      "itemRating": "6.7",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/21/01/06/18//19591043_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "News of the World",
+      "itemDescrip": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610582400/3ab1c3a3e6ef5d42db04e8a52980287c/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/20/10/23/09/16/1906110.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/10/22/17//19589608_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Wonder Woman 1984",
+      "itemDescrip": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/d72f63545699d4d7244303d05c44285a/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "itemRating": "7.1",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/12/07/09//19590818_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Riverdale",
+      "itemDescrip": "Set in the present%2C the series offers a bold%2C subversive take on Archie%2C Betty%2C Veronica and their friends%2C exploring the surreality of small-town life%2C the darkness and weirdness bubbling beneath Riverdale%92s wholesome facade.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1611187200/092fa8a870f22717fa8aa9a3553f1477/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/05/07/09/19578287_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Soul",
+      "itemDescrip": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/6cf958a9807f4329d8bbb584fb20e516/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "itemRating": "8.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/11/10/12//19590528_hd_013.mp4"
+    },
+ {
+      "itemID": "MYSTREAM",
+      "itemName": "INTRUSION",
+      "itemDescrip": "Francis Watts est riche, beau et célibataire. Alors où est le problème ? Le problème, c'est qu'il a 60 ans et qu'il n'a pas accompli grand-chose. Dans un effort désespéré pour recommencer une nouvelle vie, ce philanthrope drogué aux pilules va s'immiscer dans la vie d'un jeune couple.",
+      "itemUrl": "https://mstream.tech/clowv3rybz44",
+      "itemImage": "https://fr.web.img5.acsta.net/c_310_420/pictures/15/11/20/09/16/476716.jpg",
+      "itemRating": "6.2",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/19/08/27/16//19585382_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "C'EST BEAU LA VIE QUAND ON Y PENSE",
+      "itemDescrip": "Loïc, un ancien pilote de rallye, et Hugo, un jeune homme complètement déjanté, sont deux inconnus que tout oppose. Un événement hors du commun va pourtant les réunir. D’abord explosive, leur rencontre va marquer le début d'une relation pleine de surprises.",
+      "itemUrl": "https://mstream.tech/zszw0t5bsqb4",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/02/24/14/18/327781.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/02/27/12/19568866_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "NOS ÂMES LA NUIT",
+      "itemDescrip": "Voisins depuis des décennies, tous deux veufs, seuls dans leurs grandes maisons, Addie et Louis ne sont que très peu en contact. Un jour, Addie rend une visite surprise à Louis.",
+      "itemUrl": "https://mstream.tech/zu6huqfqhg5g",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/17/09/15/13/03/0368624.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/09/13/18/19573971_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "LES GARDIENS DE LA GALAXIE 2",
+      "itemDescrip": "Musicalement accompagné de la Awesome Mixtape n°2 (la musique qu'écoute Star-Lord dans le film), Les Gardiens de la galaxie 2 poursuit les aventures de l'équipe alors qu'elle traverse les confins du cosmos. Les gardiens doivent combattre pour rester unis alors qu'ils découvrent les mystères de la filiation de Peter Quill. Les vieux ennemis vont devenir de nouveaux alliés et des personnages bien connus des fans de comics vont venir aider nos héros et continuer à étendre l'univers Marvel.",
+      "itemUrl": "https://mstream.tech/mm6csp6lk6up",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/03/01/11/10/438835.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/03/02/11/19568905_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "COLETTE",
+      "itemDescrip": "1893. Malgré leurs quatorze ans d’écart, Gabrielle Sidonie Colette, jeune fille à l’esprit rebelle, épouse Willy, écrivain aussi égocentrique que séducteur. Grâce à ses relations, elle découvre le milieu artistique parisien qui stimule sa propre créativité. Sachant repérer les talents mieux que quiconque, Willy autorise Colette à écrire – à condition qu’il signe ses romans à sa place. Suite au triomphe de la série des Claudine, il ne tarde d’ailleurs pas à devenir célèbre. Pourtant, tandis que les infidélités de Willy pèsent sur le couple, Colette souffre de plus en plus de ne pas être reconnue pour son œuvre…",
+      "itemUrl": "https://mstream.tech/euud6zkd4rsa",
+      "itemImage": "https://fr.web.img2.acsta.net/c_310_420/pictures/18/10/12/16/21/5667607.jpg",
+      "itemRating": "5.9",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "La Platforme",
+      "itemDescrip": "Dans une prison-tour, une dalle transportant de la nourriture descend d'étage en étage, un système qui favorise les premiers servis et affame les derniers.",
+      "itemUrl": "https://mstream.tech/xc7qiq1qa7nt",
+      "itemImage": "https://statics-media.streamcomplet.nu/mrw1YHD26RLlHHDTiL.jpg",
+      "itemRating": "4.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/03/31/14//19588109_hd_013.mp4"
+    },{
+      "itemID": "SHQIP",
+      "itemName": "Hercai (Rejan) – Episodi 214",
+      "itemDescrip": "Kjo është, Hercai (Rejan) – Episodi 214 - Ju urojm shikim të këndshëm.",
+      "itemUrl": "z715msjdwnz7jj2",
+      "itemImage": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg",
+      "itemRating": "10",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    }
+
+    ]
+  },{
+    "categoryID": 1,
+    "categoryName": "Custom Category",
+    "itemList": [
+{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "WandaVision",
+      "itemDescrip": "Wanda Maximoff and Vision%97two super-powered beings living idealized suburban lives%97begin to suspect that everything is not as it seems.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/e24d7a6ac711ef5423606dd4b940a5ea/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/09/21/08//19589942_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Outside the Wire",
+      "itemDescrip": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/271177f7589752cb19917de85e61c182/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img4.acsta.net/c_210_280/pictures/21/01/07/10/54/4394921.jpg",
+      "itemRating": "6.7",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/21/01/06/18//19591043_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "News of the World",
+      "itemDescrip": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610582400/3ab1c3a3e6ef5d42db04e8a52980287c/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/20/10/23/09/16/1906110.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/10/22/17//19589608_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Wonder Woman 1984",
+      "itemDescrip": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/d72f63545699d4d7244303d05c44285a/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "itemRating": "7.1",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/12/07/09//19590818_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Riverdale",
+      "itemDescrip": "Set in the present%2C the series offers a bold%2C subversive take on Archie%2C Betty%2C Veronica and their friends%2C exploring the surreality of small-town life%2C the darkness and weirdness bubbling beneath Riverdale%92s wholesome facade.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1611187200/092fa8a870f22717fa8aa9a3553f1477/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/05/07/09/19578287_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Soul",
+      "itemDescrip": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/6cf958a9807f4329d8bbb584fb20e516/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "itemRating": "8.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/11/10/12//19590528_hd_013.mp4"
+    },
+ {
+      "itemID": "MYSTREAM",
+      "itemName": "INTRUSION",
+      "itemDescrip": "Francis Watts est riche, beau et célibataire. Alors où est le problème ? Le problème, c'est qu'il a 60 ans et qu'il n'a pas accompli grand-chose. Dans un effort désespéré pour recommencer une nouvelle vie, ce philanthrope drogué aux pilules va s'immiscer dans la vie d'un jeune couple.",
+      "itemUrl": "https://mstream.tech/clowv3rybz44",
+      "itemImage": "https://fr.web.img5.acsta.net/c_310_420/pictures/15/11/20/09/16/476716.jpg",
+      "itemRating": "6.2",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/19/08/27/16//19585382_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "C'EST BEAU LA VIE QUAND ON Y PENSE",
+      "itemDescrip": "Loïc, un ancien pilote de rallye, et Hugo, un jeune homme complètement déjanté, sont deux inconnus que tout oppose. Un événement hors du commun va pourtant les réunir. D’abord explosive, leur rencontre va marquer le début d'une relation pleine de surprises.",
+      "itemUrl": "https://mstream.tech/zszw0t5bsqb4",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/02/24/14/18/327781.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/02/27/12/19568866_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "NOS ÂMES LA NUIT",
+      "itemDescrip": "Voisins depuis des décennies, tous deux veufs, seuls dans leurs grandes maisons, Addie et Louis ne sont que très peu en contact. Un jour, Addie rend une visite surprise à Louis.",
+      "itemUrl": "https://mstream.tech/zu6huqfqhg5g",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/17/09/15/13/03/0368624.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/09/13/18/19573971_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "LES GARDIENS DE LA GALAXIE 2",
+      "itemDescrip": "Musicalement accompagné de la Awesome Mixtape n°2 (la musique qu'écoute Star-Lord dans le film), Les Gardiens de la galaxie 2 poursuit les aventures de l'équipe alors qu'elle traverse les confins du cosmos. Les gardiens doivent combattre pour rester unis alors qu'ils découvrent les mystères de la filiation de Peter Quill. Les vieux ennemis vont devenir de nouveaux alliés et des personnages bien connus des fans de comics vont venir aider nos héros et continuer à étendre l'univers Marvel.",
+      "itemUrl": "https://mstream.tech/mm6csp6lk6up",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/03/01/11/10/438835.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/03/02/11/19568905_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "COLETTE",
+      "itemDescrip": "1893. Malgré leurs quatorze ans d’écart, Gabrielle Sidonie Colette, jeune fille à l’esprit rebelle, épouse Willy, écrivain aussi égocentrique que séducteur. Grâce à ses relations, elle découvre le milieu artistique parisien qui stimule sa propre créativité. Sachant repérer les talents mieux que quiconque, Willy autorise Colette à écrire – à condition qu’il signe ses romans à sa place. Suite au triomphe de la série des Claudine, il ne tarde d’ailleurs pas à devenir célèbre. Pourtant, tandis que les infidélités de Willy pèsent sur le couple, Colette souffre de plus en plus de ne pas être reconnue pour son œuvre…",
+      "itemUrl": "https://mstream.tech/euud6zkd4rsa",
+      "itemImage": "https://fr.web.img2.acsta.net/c_310_420/pictures/18/10/12/16/21/5667607.jpg",
+      "itemRating": "5.9",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "La Platforme",
+      "itemDescrip": "Dans une prison-tour, une dalle transportant de la nourriture descend d'étage en étage, un système qui favorise les premiers servis et affame les derniers.",
+      "itemUrl": "https://mstream.tech/xc7qiq1qa7nt",
+      "itemImage": "https://statics-media.streamcomplet.nu/mrw1YHD26RLlHHDTiL.jpg",
+      "itemRating": "4.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/03/31/14//19588109_hd_013.mp4"
+    },{
+      "itemID": "SHQIP",
+      "itemName": "Hercai (Rejan) – Episodi 214",
+      "itemDescrip": "Kjo është, Hercai (Rejan) – Episodi 214 - Ju urojm shikim të këndshëm.",
+      "itemUrl": "z715msjdwnz7jj2",
+      "itemImage": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg",
+      "itemRating": "10",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    }
+
+    ]
+  },{
+    "categoryID": 1,
+    "categoryName": "SCI-FI",
+    "itemList": [
+{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "WandaVision",
+      "itemDescrip": "Wanda Maximoff and Vision%97two super-powered beings living idealized suburban lives%97begin to suspect that everything is not as it seems.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/e24d7a6ac711ef5423606dd4b940a5ea/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/09/21/08//19589942_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Outside the Wire",
+      "itemDescrip": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/271177f7589752cb19917de85e61c182/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img4.acsta.net/c_210_280/pictures/21/01/07/10/54/4394921.jpg",
+      "itemRating": "6.7",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/21/01/06/18//19591043_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "News of the World",
+      "itemDescrip": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610582400/3ab1c3a3e6ef5d42db04e8a52980287c/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/20/10/23/09/16/1906110.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/10/22/17//19589608_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Wonder Woman 1984",
+      "itemDescrip": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/d72f63545699d4d7244303d05c44285a/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "itemRating": "7.1",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/12/07/09//19590818_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Riverdale",
+      "itemDescrip": "Set in the present%2C the series offers a bold%2C subversive take on Archie%2C Betty%2C Veronica and their friends%2C exploring the surreality of small-town life%2C the darkness and weirdness bubbling beneath Riverdale%92s wholesome facade.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1611187200/092fa8a870f22717fa8aa9a3553f1477/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/05/07/09/19578287_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Soul",
+      "itemDescrip": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/6cf958a9807f4329d8bbb584fb20e516/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "itemRating": "8.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/11/10/12//19590528_hd_013.mp4"
+    },
+ {
+      "itemID": "MYSTREAM",
+      "itemName": "INTRUSION",
+      "itemDescrip": "Francis Watts est riche, beau et célibataire. Alors où est le problème ? Le problème, c'est qu'il a 60 ans et qu'il n'a pas accompli grand-chose. Dans un effort désespéré pour recommencer une nouvelle vie, ce philanthrope drogué aux pilules va s'immiscer dans la vie d'un jeune couple.",
+      "itemUrl": "https://mstream.tech/clowv3rybz44",
+      "itemImage": "https://fr.web.img5.acsta.net/c_310_420/pictures/15/11/20/09/16/476716.jpg",
+      "itemRating": "6.2",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/19/08/27/16//19585382_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "C'EST BEAU LA VIE QUAND ON Y PENSE",
+      "itemDescrip": "Loïc, un ancien pilote de rallye, et Hugo, un jeune homme complètement déjanté, sont deux inconnus que tout oppose. Un événement hors du commun va pourtant les réunir. D’abord explosive, leur rencontre va marquer le début d'une relation pleine de surprises.",
+      "itemUrl": "https://mstream.tech/zszw0t5bsqb4",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/02/24/14/18/327781.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/02/27/12/19568866_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "NOS ÂMES LA NUIT",
+      "itemDescrip": "Voisins depuis des décennies, tous deux veufs, seuls dans leurs grandes maisons, Addie et Louis ne sont que très peu en contact. Un jour, Addie rend une visite surprise à Louis.",
+      "itemUrl": "https://mstream.tech/zu6huqfqhg5g",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/17/09/15/13/03/0368624.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/09/13/18/19573971_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "LES GARDIENS DE LA GALAXIE 2",
+      "itemDescrip": "Musicalement accompagné de la Awesome Mixtape n°2 (la musique qu'écoute Star-Lord dans le film), Les Gardiens de la galaxie 2 poursuit les aventures de l'équipe alors qu'elle traverse les confins du cosmos. Les gardiens doivent combattre pour rester unis alors qu'ils découvrent les mystères de la filiation de Peter Quill. Les vieux ennemis vont devenir de nouveaux alliés et des personnages bien connus des fans de comics vont venir aider nos héros et continuer à étendre l'univers Marvel.",
+      "itemUrl": "https://mstream.tech/mm6csp6lk6up",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/03/01/11/10/438835.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/03/02/11/19568905_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "COLETTE",
+      "itemDescrip": "1893. Malgré leurs quatorze ans d’écart, Gabrielle Sidonie Colette, jeune fille à l’esprit rebelle, épouse Willy, écrivain aussi égocentrique que séducteur. Grâce à ses relations, elle découvre le milieu artistique parisien qui stimule sa propre créativité. Sachant repérer les talents mieux que quiconque, Willy autorise Colette à écrire – à condition qu’il signe ses romans à sa place. Suite au triomphe de la série des Claudine, il ne tarde d’ailleurs pas à devenir célèbre. Pourtant, tandis que les infidélités de Willy pèsent sur le couple, Colette souffre de plus en plus de ne pas être reconnue pour son œuvre…",
+      "itemUrl": "https://mstream.tech/euud6zkd4rsa",
+      "itemImage": "https://fr.web.img2.acsta.net/c_310_420/pictures/18/10/12/16/21/5667607.jpg",
+      "itemRating": "5.9",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "La Platforme",
+      "itemDescrip": "Dans une prison-tour, une dalle transportant de la nourriture descend d'étage en étage, un système qui favorise les premiers servis et affame les derniers.",
+      "itemUrl": "https://mstream.tech/xc7qiq1qa7nt",
+      "itemImage": "https://statics-media.streamcomplet.nu/mrw1YHD26RLlHHDTiL.jpg",
+      "itemRating": "4.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/03/31/14//19588109_hd_013.mp4"
+    },{
+      "itemID": "SHQIP",
+      "itemName": "Hercai (Rejan) – Episodi 214",
+      "itemDescrip": "Kjo është, Hercai (Rejan) – Episodi 214 - Ju urojm shikim të këndshëm.",
+      "itemUrl": "z715msjdwnz7jj2",
+      "itemImage": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg",
+      "itemRating": "10",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    }
+
+    ]
+  },{
+    "categoryID": 1,
     "categoryName": "History",
     "itemList": [
-      {
-        "itemID": "MP4",
-        "itemImage": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/USM_El_Harrach_%28logo%29.svg/1200px-USM_El_Harrach_%28logo%29.svg.png",
-        "itemName": "Chemical bonds"
-      }
+{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "WandaVision",
+      "itemDescrip": "Wanda Maximoff and Vision%97two super-powered beings living idealized suburban lives%97begin to suspect that everything is not as it seems.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/e24d7a6ac711ef5423606dd4b940a5ea/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/09/21/08//19589942_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Outside the Wire",
+      "itemDescrip": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610668800/271177f7589752cb19917de85e61c182/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img4.acsta.net/c_210_280/pictures/21/01/07/10/54/4394921.jpg",
+      "itemRating": "6.7",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/21/01/06/18//19591043_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "News of the World",
+      "itemDescrip": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1610582400/3ab1c3a3e6ef5d42db04e8a52980287c/v.mp4/index.m3u8",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/20/10/23/09/16/1906110.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/10/22/17//19589608_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Wonder Woman 1984",
+      "itemDescrip": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/d72f63545699d4d7244303d05c44285a/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "itemRating": "7.1",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/12/07/09//19590818_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Riverdale",
+      "itemDescrip": "Set in the present%2C the series offers a bold%2C subversive take on Archie%2C Betty%2C Veronica and their friends%2C exploring the surreality of small-town life%2C the darkness and weirdness bubbling beneath Riverdale%92s wholesome facade.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1611187200/092fa8a870f22717fa8aa9a3553f1477/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+      "itemRating": "8.6",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/05/07/09/19578287_hd_013.mp4"
+    },
+    {
+      "itemID": "MP4",
+      "itemName": "Soul",
+      "itemDescrip": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+      "itemUrl": "https://tempb06.fhdovq.site/stream/hls/06/1608854400/6cf958a9807f4329d8bbb584fb20e516/v.mp4/index.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "itemRating": "8.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/11/10/12//19590528_hd_013.mp4"
+    },
+ {
+      "itemID": "MYSTREAM",
+      "itemName": "INTRUSION",
+      "itemDescrip": "Francis Watts est riche, beau et célibataire. Alors où est le problème ? Le problème, c'est qu'il a 60 ans et qu'il n'a pas accompli grand-chose. Dans un effort désespéré pour recommencer une nouvelle vie, ce philanthrope drogué aux pilules va s'immiscer dans la vie d'un jeune couple.",
+      "itemUrl": "https://mstream.tech/clowv3rybz44",
+      "itemImage": "https://fr.web.img5.acsta.net/c_310_420/pictures/15/11/20/09/16/476716.jpg",
+      "itemRating": "6.2",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/19/08/27/16//19585382_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "C'EST BEAU LA VIE QUAND ON Y PENSE",
+      "itemDescrip": "Loïc, un ancien pilote de rallye, et Hugo, un jeune homme complètement déjanté, sont deux inconnus que tout oppose. Un événement hors du commun va pourtant les réunir. D’abord explosive, leur rencontre va marquer le début d'une relation pleine de surprises.",
+      "itemUrl": "https://mstream.tech/zszw0t5bsqb4",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/02/24/14/18/327781.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/02/27/12/19568866_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "NOS ÂMES LA NUIT",
+      "itemDescrip": "Voisins depuis des décennies, tous deux veufs, seuls dans leurs grandes maisons, Addie et Louis ne sont que très peu en contact. Un jour, Addie rend une visite surprise à Louis.",
+      "itemUrl": "https://mstream.tech/zu6huqfqhg5g",
+      "itemImage": "https://fr.web.img6.acsta.net/f_png/c_310_420/o_logo-netflix-n.png_5_se/pictures/17/09/15/13/03/0368624.jpg",
+      "itemRating": "5.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/09/13/18/19573971_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "LES GARDIENS DE LA GALAXIE 2",
+      "itemDescrip": "Musicalement accompagné de la Awesome Mixtape n°2 (la musique qu'écoute Star-Lord dans le film), Les Gardiens de la galaxie 2 poursuit les aventures de l'équipe alors qu'elle traverse les confins du cosmos. Les gardiens doivent combattre pour rester unis alors qu'ils découvrent les mystères de la filiation de Peter Quill. Les vieux ennemis vont devenir de nouveaux alliés et des personnages bien connus des fans de comics vont venir aider nos héros et continuer à étendre l'univers Marvel.",
+      "itemUrl": "https://mstream.tech/mm6csp6lk6up",
+      "itemImage": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/03/01/11/10/438835.jpg",
+      "itemRating": "7.5",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/17/03/02/11/19568905_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "COLETTE",
+      "itemDescrip": "1893. Malgré leurs quatorze ans d’écart, Gabrielle Sidonie Colette, jeune fille à l’esprit rebelle, épouse Willy, écrivain aussi égocentrique que séducteur. Grâce à ses relations, elle découvre le milieu artistique parisien qui stimule sa propre créativité. Sachant repérer les talents mieux que quiconque, Willy autorise Colette à écrire – à condition qu’il signe ses romans à sa place. Suite au triomphe de la série des Claudine, il ne tarde d’ailleurs pas à devenir célèbre. Pourtant, tandis que les infidélités de Willy pèsent sur le couple, Colette souffre de plus en plus de ne pas être reconnue pour son œuvre…",
+      "itemUrl": "https://mstream.tech/euud6zkd4rsa",
+      "itemImage": "https://fr.web.img2.acsta.net/c_310_420/pictures/18/10/12/16/21/5667607.jpg",
+      "itemRating": "5.9",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MYSTREAM",
+      "itemName": "La Platforme",
+      "itemDescrip": "Dans une prison-tour, une dalle transportant de la nourriture descend d'étage en étage, un système qui favorise les premiers servis et affame les derniers.",
+      "itemUrl": "https://mstream.tech/xc7qiq1qa7nt",
+      "itemImage": "https://statics-media.streamcomplet.nu/mrw1YHD26RLlHHDTiL.jpg",
+      "itemRating": "4.3",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/03/31/14//19588109_hd_013.mp4"
+    },{
+      "itemID": "SHQIP",
+      "itemName": "Hercai (Rejan) – Episodi 214",
+      "itemDescrip": "Kjo është, Hercai (Rejan) – Episodi 214 - Ju urojm shikim të këndshëm.",
+      "itemUrl": "z715msjdwnz7jj2",
+      "itemImage": "https://serialeshqip1.tv/wp-content/uploads/2019/03/Seriali-Hercai.jpg",
+      "itemRating": "10",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/18/10/22/17/19579360_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    },{
+      "itemID": "MP4",
+      "itemName": "Greenland",
+      "itemDescrip": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "itemUrl": "https://load.hdfilme.ws/playlist/c86f4b9cd99e2fc6e7cb3d5e03d4c162/c86f4b9cd99e2fc6e7cb3d5e03d4c162.m3u8",
+      "itemImage": "https://www.themoviedb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "itemRating": "6.8",
+      "trailer": "https://fr.vid.web.acsta.net/nmedia/33/20/07/10/18//19589003_hd_013.mp4"
+    }
+
     ]
   }
 ]
