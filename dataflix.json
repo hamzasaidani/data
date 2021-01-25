@@ -1,37 +1,37 @@
 [
   {
-    "categoryID": 1,
+    "categoryID": "PHSQ",
     "categoryName": "Physics",
     "itemList": [
       {
-        "itemID": 1,
+        "itemID": "MP4",
         "itemImage": "http://ashishkudale.com/images/phy/atoms.png",
         "itemName": "Atomic power"
       },      {
-        "itemID": 2,
+        "itemID": "MP4",
         "itemImage": "http://ashishkudale.com/images/phy/atoms.png",
         "itemName": "Atomic power"
       },      {
-        "itemID": 3,
+        "itemID": "MP4",
         "itemImage": "http://ashishkudale.com/images/phy/atoms.png",
         "itemName": "Atomic power"
       },      {
-        "itemID": 4,
+        "itemID": "MP4",
         "itemImage": "http://ashishkudale.com/images/phy/atoms.png",
         "itemName": "Atomic power"
       },      {
-        "itemID": 5,
+        "itemID": "MP4",
         "itemImage": "http://ashishkudale.com/images/phy/atoms.png",
         "itemName": "Atomic power"
       }
     ]
   },
   {
-    "categoryID": 2,
+    "categoryID": "CHEM",
     "categoryName": "Chemistry",
     "itemList": [
       {
-        "itemID": 6,
+        "itemID": "MP4",
         "itemImage": "http://ashishkudale.com/images/chem/bonds.png",
         "itemName": "Chemical bonds"
       }
