@@ -5,24 +5,24 @@
     "itemList": [
       {
         "itemID": "MP4",
-        "itemImage": "http://ashishkudale.com/images/phy/atoms.png",
+        "itemImage": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/USM_El_Harrach_%28logo%29.svg/1200px-USM_El_Harrach_%28logo%29.svg.png",
+        "itemName": "Awer"
+      },      {
+        "itemID": "MP4",
+        "itemImage": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/USM_El_Harrach_%28logo%29.svg/1200px-USM_El_Harrach_%28logo%29.svg.png",
+        "itemName": "Atoower"
+      },      {
+        "itemID": "MP4",
+        "itemImage": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/USM_El_Harrach_%28logo%29.svg/1200px-USM_El_Harrach_%28logo%29.svg.png",
         "itemName": "Atomic power"
       },      {
         "itemID": "MP4",
-        "itemImage": "http://ashishkudale.com/images/phy/atoms.png",
-        "itemName": "Atomic power"
+        "itemImage": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/USM_El_Harrach_%28logo%29.svg/1200px-USM_El_Harrach_%28logo%29.svg.png",
+        "itemName": " power"
       },      {
         "itemID": "MP4",
-        "itemImage": "http://ashishkudale.com/images/phy/atoms.png",
-        "itemName": "Atomic power"
-      },      {
-        "itemID": "MP4",
-        "itemImage": "http://ashishkudale.com/images/phy/atoms.png",
-        "itemName": "Atomic power"
-      },      {
-        "itemID": "MP4",
-        "itemImage": "http://ashishkudale.com/images/phy/atoms.png",
-        "itemName": "Atomic power"
+        "itemImage": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/USM_El_Harrach_%28logo%29.svg/1200px-USM_El_Harrach_%28logo%29.svg.png",
+        "itemName": "Atomic "
       }
     ]
   },
@@ -32,7 +32,7 @@
     "itemList": [
       {
         "itemID": "MP4",
-        "itemImage": "http://ashishkudale.com/images/chem/bonds.png",
+        "itemImage": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/USM_El_Harrach_%28logo%29.svg/1200px-USM_El_Harrach_%28logo%29.svg.png",
         "itemName": "Chemical bonds"
       }
     ]
