@@ -1,6 +1,6 @@
 [
   {
-    "categoryID": "PHSQ",
+    "categoryID": 1,
     "categoryName": "Physics",
     "itemList": [
       {
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "categoryID": "CHEM",
+    "categoryID": 2,
     "categoryName": "Chemistry",
     "itemList": [
       {
