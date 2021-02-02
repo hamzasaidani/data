@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",Big_Buck_Bunny_1080_10s_5MB
+#EXTINF:0 tvg-id="ext" tvglogo="https://4kmedia.org/wp-content/uploads/2017/01/big-buck-bunny-thumbnail.jpg" group-title="Channels",Big_Buck_Bunny_1080_10s_5MB
 https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_5MB.mp4
 #EXTINF:0 tvg-id="ext" group-title="Channels",Big_Buck_Bunny_720_10s_2MB
 https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_2MB.mp4
