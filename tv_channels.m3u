@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" tvgLogo="http://geronimo89.dk/blog/wp-content/blog_bigbuck.png" group-title="Channels",Big_Buck_Bunny_1080_10s_5MB
+#EXTINF:0 tvg-id="ext" tvg-logo="http://geronimo89.dk/blog/wp-content/blog_bigbuck.png" group-title="Channels",Big_Buck_Bunny_1080_10s_5MB
 https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_5MB.mp4
-#EXTINF:0 tvg-id="ext" tvgLogo="https://peach.blender.org/wp-content/uploads/poster_small.jpg" group-title="Channels",Big_Buck_Bunny_720_10s_2MB
+#EXTINF:0 tvg-id="ext" tvg-logo="https://peach.blender.org/wp-content/uploads/poster_small.jpg" group-title="Channels",Big_Buck_Bunny_720_10s_2MB
 https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_2MB.mp4
-#EXTINF:0 tvg-id="ext" tvgLogo="http://geronimo89.dk/blog/wp-content/blog_bigbuck.png" group-title="Channels",Big_Buck_Bunny_360_10s_1MB
+#EXTINF:0 tvg-id="ext" tvg-logo="http://geronimo89.dk/blog/wp-content/blog_bigbuck.png" group-title="Channels",Big_Buck_Bunny_360_10s_1MB
 https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4
