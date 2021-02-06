@@ -1,11 +1,6 @@
 <h1>Hi 👋, I'm saqoah</h1>
 <h3>A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **1MPlayer**
-<img src="https://raw.githubusercontent.com/saqoah/data/main/Screenshot_20210204-104438.jpg" alt="1MPlayer" width="150" height="300"/>
-
-- 👨‍💻 All of my projects are available at [my github repos]
-
 - 💬 Ask me about **react,vue,gsap,kotlin,...**
 
 <h3 align="left">Languages and Tools:</h3>
