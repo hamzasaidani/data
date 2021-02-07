@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,======ISLAMIC======
-http://4kiptv.vip:25461/Sc3d6yHHsGZOHOp/GXUevDheB9V5VDD/7274
+#EXTINF:-1,======local file test======
+http://192.168.1.5:8080/storage/emulated/0/DCIM/Camera/20201217_131157.mp4
 #EXTINF:-1,AR: Iqraa
 http://4kiptv.vip:25461/Sc3d6yHHsGZOHOp/GXUevDheB9V5VDD/7273
 #EXTINF:-1,AR: Saudi Quran
