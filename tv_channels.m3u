@@ -1,499 +1,500 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="===== ALBANIA =====" tvg-logo="" group-title="EU ALBANIA",===== ALBANIA =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== ALBANIA =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95884
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: CORONA VIRUS INFO" tvg-logo="http://www.vodkom.com:25461/Logo/corona.png" group-title="EU ALBANIA",ALB: CORONA VIRUS INFO
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: CORONA VIRUS INFO
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95885
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TOP CHANNEL HD" tvg-logo="" group-title="EU ALBANIA",ALB: TOP CHANNEL HD
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="EU ALBANIA",ALB: TOP CHANNEL HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95886
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TOP CHANNEL 4K" tvg-logo="" group-title="EU ALBANIA",ALB: TOP CHANNEL 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TOP CHANNEL 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95887
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: KLAN TV HD" tvg-logo="" group-title="EU ALBANIA",ALB: KLAN TV HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: KLAN TV HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95888
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: KLAN 4K" tvg-logo="" group-title="EU ALBANIA",ALB: KLAN 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: KLAN 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95889
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: KLAN PLUS 4K" tvg-logo="" group-title="EU ALBANIA",ALB: KLAN PLUS 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: KLAN PLUS 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95890
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: KLAN PLUS HD" tvg-logo="" group-title="EU ALBANIA",ALB: KLAN PLUS HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: KLAN PLUS HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95891
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: VIZION PLUS HD" tvg-logo="" group-title="EU ALBANIA",ALB: VIZION PLUS HD
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="EU ALBANIA",ALB: VIZION PLUS HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95892
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: VIZION PLUS 4K" tvg-logo="" group-title="EU ALBANIA",ALB: VIZION PLUS 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: VIZION PLUS 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95893
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Kanal 10 FHD" tvg-logo="" group-title="EU ALBANIA",ALB: Kanal 10 FHD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Kanal 10 FHD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/111252
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ALSAT M HD" tvg-logo="" group-title="EU ALBANIA",ALB: ALSAT M HD
+#EXTINF:0 tvg-id="AlsatM.al" group-title="EU ALBANIA",ALB: ALSAT M HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95896
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: IN TV" tvg-logo="" group-title="EU ALBANIA",ALB: IN TV
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: IN TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95898
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH 1" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH 1
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH 1
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95899
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH 1 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH 1 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95900
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH 2 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH 2 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95901
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH 3" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH 3
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH 3
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95902
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH MUZIKE" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH MUZIKE
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH MUZIKE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95903
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH SHQIP" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH SHQIP
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH SHQIP
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95904
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH GJIROKASTRA" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH GJIROKASTRA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH GJIROKASTRA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95905
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH 24 HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH 24 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH 24 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95906
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH PLUS" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH PLUS
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH PLUS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95907
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH KUVEND" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH KUVEND
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH KUVEND
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95908
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH SPORT HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH SPORT HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH SPORT HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95909
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: KTV KOHAVISION" tvg-logo="" group-title="EU ALBANIA",ALB: KTV KOHAVISION
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: KTV KOHAVISION
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95918
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV DUKAGJINI" tvg-logo="" group-title="EU ALBANIA",ALB: TV DUKAGJINI
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV DUKAGJINI
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95919
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV ERA" tvg-logo="" group-title="EU ALBANIA",ALB: TV ERA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV ERA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95921
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 MIX" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 MIX
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTV21 MIX
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95925
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 PLUS" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 PLUS
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTV21 PLUS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95926
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 NEWSBIZ HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 NEWSBIZ HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTV21 NEWSBIZ HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95927
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV CHANNEL SHOKDER" tvg-logo="" group-title="EU ALBANIA",ALB: TV CHANNEL SHOKDER
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV CHANNEL SHOKDER
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95929
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SYRI VISION" tvg-logo="" group-title="EU ALBANIA",ALB: SYRI VISION
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SYRI VISION
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95931
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: STAR PLUS SHKODER HD" tvg-logo="" group-title="EU ALBANIA",ALB: STAR PLUS SHKODER HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: STAR PLUS SHKODER HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95939
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV KOPLIKU HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV KOPLIKU HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV KOPLIKU HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95940
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV LIRIA" tvg-logo="" group-title="EU ALBANIA",ALB: TV LIRIA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV LIRIA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95942
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TEMA TV" tvg-logo="" group-title="EU ALBANIA",ALB: TEMA TV
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TEMA TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95943
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: KOMBI TV" tvg-logo="" group-title="EU ALBANIA",ALB: KOMBI TV
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: KOMBI TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/111247
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: VIZION PLUS" tvg-logo="" group-title="EU ALBANIA",ALB: VIZION PLUS
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: VIZION PLUS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/111250
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV FONTANA HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTV FONTANA HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTV FONTANA HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/111251
-#EXTINF:-1 tvg-ID="" tvg-name="===== LAJME =====" tvg-logo="" group-title="EU ALBANIA",===== LAJME =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== LAJME =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95944
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TOP NEWS" tvg-logo="" group-title="EU ALBANIA",ALB: TOP NEWS
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TOP NEWS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95945
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ABC NEWS" tvg-logo="" group-title="EU ALBANIA",ALB: ABC NEWS
+#EXTINF:0 tvg-id="ABCNews.al" group-title="EU ALBANIA",ALB: ABC NEWS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95946
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ORA NEWS HD" tvg-logo="" group-title="EU ALBANIA",ALB: ORA NEWS HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ORA NEWS HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95947
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: NEWS 24" tvg-logo="" group-title="EU ALBANIA",ALB: NEWS 24
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: NEWS 24
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95948
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FAX NEWS" tvg-logo="" group-title="EU ALBANIA",ALB: FAX NEWS
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FAX NEWS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95949
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: REPORT TV" tvg-logo="" group-title="EU ALBANIA",ALB: REPORT TV
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: REPORT TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95950
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: A2 4K" tvg-logo="" group-title="EU ALBANIA",ALB: A2 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: A2 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95951
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: KANALI 7" tvg-logo="" group-title="EU ALBANIA",ALB: KANALI 7
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: KANALI 7
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95952
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART CHANNEL HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART CHANNEL HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ART CHANNEL HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95955
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURONEWS ALB:*ANIA" tvg-logo="" group-title="EU ALBANIA",ALB: EURONEWS ALB:*ANIA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: EURONEWS ALB:*ANIA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95956
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SCAN TV" tvg-logo="" group-title="EU ALBANIA",ALB: SCAN TV
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SCAN TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95957
-#EXTINF:-1 tvg-ID="" tvg-name="===== FEMIJE =====" tvg-logo="" group-title="EU ALBANIA",===== FEMIJE =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== FEMIJE =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95958
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: BUBRRECI TV HD" tvg-logo="" group-title="EU ALBANIA",ALB: BUBRRECI TV HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: BUBRRECI TV HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95959
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: BANG BANG" tvg-logo="" group-title="EU ALBANIA",ALB: BANG BANG
+#EXTINF:0 tvg-id="BangBang.al" group-title="EU ALBANIA",ALB: BANG BANG
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95960
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: CUFO" tvg-logo="" group-title="EU ALBANIA",ALB: CUFO
+#EXTINF:0 tvg-id="CufoTV.al" group-title="EU ALBANIA",ALB: CUFO
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95961
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: BABY TV" tvg-logo="" group-title="EU ALBANIA",ALB: BABY TV
+#EXTINF:0 tvg-id="BabyTV.al" group-title="EU ALBANIA",ALB: BABY TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95962
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: JUNIOR" tvg-logo="" group-title="EU ALBANIA",ALB: JUNIOR
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: JUNIOR
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95963
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING KIDS" tvg-logo="" group-title="EU ALBANIA",ALB: TRING KIDS
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TRING KIDS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95964
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING TRING" tvg-logo="" group-title="EU ALBANIA",ALB: TRING TRING
+#EXTINF:0 tvg-id="TringTring.al" group-title="EU ALBANIA",ALB: TRING TRING
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95965
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TIP TV" tvg-logo="" group-title="EU ALBANIA",ALB: TIP TV
+#EXTINF:0 tvg-id="TipTv.al" group-title="EU ALBANIA",ALB: TIP TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95966
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SOFIA" tvg-logo="" group-title="EU ALBANIA",ALB: SOFIA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SOFIA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95967
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SOLE TV" tvg-logo="" group-title="EU ALBANIA",ALB: SOLE TV
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SOLE TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95968
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q TOM & JERRY" tvg-logo="" group-title="EU ALBANIA",ALB: Q TOM & JERRY
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q TOM & JERRY
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95969
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 JUNIOR" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 JUNIOR
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTV21 JUNIOR
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95970
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTSH FEMIJE" tvg-logo="" group-title="EU ALBANIA",ALB: RTSH FEMIJE
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTSH FEMIJE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95971
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: PJ MASKS" tvg-logo="" group-title="EU ALBANIA",ALB: PJ MASKS
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: PJ MASKS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95972
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: BOOMERANG" tvg-logo="" group-title="EU ALBANIA",ALB: BOOMERANG
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: BOOMERANG
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95973
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART PRINCE KIDS" tvg-logo="" group-title="EU ALBANIA",ALB: ART PRINCE KIDS
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ART PRINCE KIDS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95974
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: CARTOON NETWORK" tvg-logo="" group-title="EU ALBANIA",ALB: CARTOON NETWORK
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: CARTOON NETWORK
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95975
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: DRAGON BALL Z HD" tvg-logo="" group-title="EU ALBANIA",ALB: DRAGON BALL Z HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: DRAGON BALL Z HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95976
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: BARBIE TV" tvg-logo="" group-title="EU ALBANIA",ALB: BARBIE TV
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: BARBIE TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95977
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: BABY BOX TV HD" tvg-logo="" group-title="EU ALBANIA",ALB: BABY BOX TV HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: BABY BOX TV HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95978
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: DUCK TV" tvg-logo="" group-title="EU ALBANIA",ALB: DUCK TV
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: DUCK TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95979
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: JIM JAM" tvg-logo="" group-title="EU ALBANIA",ALB: JIM JAM
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: JIM JAM
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95980
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: KIDS BOX" tvg-logo="" group-title="EU ALBANIA",ALB: KIDS BOX
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: KIDS BOX
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95981
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: MR BEAN" tvg-logo="" group-title="EU ALBANIA",ALB: MR BEAN
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: MR BEAN
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95982
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: PERRALLA BOX" tvg-logo="" group-title="EU ALBANIA",ALB: PERRALLA BOX
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: PERRALLA BOX
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95983
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: KENGE PER FEMIJE" tvg-logo="" group-title="EU ALBANIA",ALB: KENGE PER FEMIJE
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: KENGE PER FEMIJE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95984
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: NINULLA PER GJUME" tvg-logo="" group-title="EU ALBANIA",ALB: NINULLA PER GJUME
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: NINULLA PER GJUME
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95985
-#EXTINF:-1 tvg-ID="" tvg-name="===== DIGITALB FILM =====" tvg-logo="" group-title="EU ALBANIA",===== DIGITALB FILM =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== DIGITALB FILM =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95986
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM NJE HD" tvg-logo="" group-title="EU ALBANIA",ALB: FILM NJE HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FILM NJE HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95987
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM DY HD" tvg-logo="" group-title="EU ALBANIA",ALB: FILM DY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FILM DY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95988
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM AKSION" tvg-logo="" group-title="EU ALBANIA",ALB: FILM AKSION
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="EU ALBANIA",ALB: FILM AKSION
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95989
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM HITS" tvg-logo="" group-title="EU ALBANIA",ALB: FILM HITS
+#EXTINF:0 tvg-id="FilmHits.al" group-title="EU ALBANIA",ALB: FILM HITS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95990
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM AUTOR" tvg-logo="" group-title="EU ALBANIA",ALB: FILM AUTOR
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="EU ALBANIA",ALB: FILM AUTOR
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95991
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM DRAMA" tvg-logo="" group-title="EU ALBANIA",ALB: FILM DRAMA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FILM DRAMA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95992
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM KOMEDI" tvg-logo="" group-title="EU ALBANIA",ALB: FILM KOMEDI
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="EU ALBANIA",ALB: FILM KOMEDI
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95993
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM THRILLER" tvg-logo="" group-title="EU ALBANIA",ALB: FILM THRILLER
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="EU ALBANIA",ALB: FILM THRILLER
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95994
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM FAMILY HD" tvg-logo="" group-title="EU ALBANIA",ALB: FILM FAMILY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FILM FAMILY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95995
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM STINET" tvg-logo="" group-title="EU ALBANIA",ALB: FILM STINET
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FILM STINET
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95996
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILM T HD" tvg-logo="" group-title="EU ALBANIA",ALB: FILM T HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FILM T HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95997
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TDC" tvg-logo="" group-title="EU ALBANIA",ALB: TDC
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TDC
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95998
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TDC 4K" tvg-logo="" group-title="EU ALBANIA",ALB: TDC 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TDC 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/95999
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURO FILM" tvg-logo="" group-title="EU ALBANIA",ALB: EURO FILM
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: EURO FILM
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96000
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURO FILM 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: EURO FILM 1 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: EURO FILM 1 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96001
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURO FILM 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: EURO FILM 2 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: EURO FILM 2 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96002
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURO FILM 4 HD" tvg-logo="" group-title="EU ALBANIA",ALB: EURO FILM 4 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: EURO FILM 4 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96003
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: EURO FILM 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: EURO FILM 3 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: EURO FILM 3 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96004
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: DIGI GOLD FAMILY HD" tvg-logo="" group-title="EU ALBANIA",ALB: DIGI GOLD FAMILY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: DIGI GOLD FAMILY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96012
-#EXTINF:-1 tvg-ID="" tvg-name="===== TRING FILM =====" tvg-logo="" group-title="EU ALBANIA",===== TRING FILM =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== TRING FILM =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96013
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING ACTION" tvg-logo="" group-title="EU ALBANIA",ALB: TRING ACTION
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TRING ACTION
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96014
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING FANTASY" tvg-logo="" group-title="EU ALBANIA",ALB: TRING FANTASY
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="EU ALBANIA",ALB: TRING FANTASY
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96015
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING LIFE" tvg-logo="" group-title="EU ALBANIA",ALB: TRING LIFE
+#EXTINF:0 tvg-id="TringLife.al" group-title="EU ALBANIA",ALB: TRING LIFE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96016
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING COMEDY" tvg-logo="" group-title="EU ALBANIA",ALB: TRING COMEDY
+#EXTINF:0 tvg-id="TringComedy.al" group-title="EU ALBANIA",ALB: TRING COMEDY
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96017
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SUPER" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SUPER
+#EXTINF:0 tvg-id="TringSuper.al" group-title="EU ALBANIA",ALB: TRING SUPER
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96018
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING 3" tvg-logo="" group-title="EU ALBANIA",ALB: TRING 3
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TRING 3
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96019
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SMILE" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SMILE
+#EXTINF:0 tvg-id="Smile.al" group-title="EU ALBANIA",ALB: TRING SMILE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96020
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SHQIP" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SHQIP
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="EU ALBANIA",ALB: TRING SHQIP
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96021
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING JOLLY" tvg-logo="" group-title="EU ALBANIA",ALB: TRING JOLLY
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TRING JOLLY
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96022
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: LIVING HD" tvg-logo="" group-title="EU ALBANIA",ALB: LIVING HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: LIVING HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96023
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FOX CHANNEL" tvg-logo="" group-title="EU ALBANIA",ALB: FOX CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FOX CHANNEL
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96024
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FOX LIFE" tvg-logo="" group-title="EU ALBANIA",ALB: FOX LIFE
+#EXTINF:0 tvg-id="FoxLife.al" group-title="EU ALBANIA",ALB: FOX LIFE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96025
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: COMEDY CENTRAL EXTRA" tvg-logo="" group-title="EU ALBANIA",ALB: COMEDY CENTRAL EXTRA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: COMEDY CENTRAL EXTRA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96026
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: KANAL D DRAMA" tvg-logo="" group-title="EU ALBANIA",ALB: KANAL D DRAMA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: KANAL D DRAMA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96027
-#EXTINF:-1 tvg-ID="" tvg-name="===== Q PREMIERE FILM =====" tvg-logo="" group-title="EU ALBANIA",===== Q PREMIERE FILM =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== Q PREMIERE FILM =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96028
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q AKSION HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q AKSION HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q AKSION HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96029
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q CINEMA HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q CINEMA HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q CINEMA HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96030
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q FAMILY HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q FAMILY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q FAMILY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96031
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q FILM HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q FILM HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q FILM HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96032
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q FANTASY HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q FANTASY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q FANTASY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96033
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q KOMEDI HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q KOMEDI HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q KOMEDI HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96034
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q HINDI HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q HINDI HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q HINDI HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96035
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q DRAMA HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q DRAMA HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q DRAMA HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96036
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q WESTERN HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q WESTERN HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q WESTERN HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96037
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q SERIAL HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q SERIAL HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q SERIAL HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96038
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q QESHU HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q QESHU HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q QESHU HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96039
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q HUMOR HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q HUMOR HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q HUMOR HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96040
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q STUPCAT HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q STUPCAT HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q STUPCAT HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96041
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q HORROR HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q HORROR HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q HORROR HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96042
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI ACTION HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI ACTION HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV PLISI ACTION HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96043
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI COMEDY HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI COMEDY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV PLISI COMEDY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96044
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI FANTASY HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI FANTASY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV PLISI FANTASY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96045
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI HORROR HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI HORROR HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV PLISI HORROR HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96046
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI THRILLER HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI THRILLER HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV PLISI THRILLER HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96047
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI HUMOR HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI HUMOR HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV PLISI HUMOR HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96048
-#EXTINF:-1 tvg-ID="" tvg-name="===== X FILM =====" tvg-logo="" group-title="EU ALBANIA",===== X FILM =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== X FILM =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96049
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X PREMIUM 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: X PREMIUM 1 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X PREMIUM 1 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96050
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X PREMIUM 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: X PREMIUM 2 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X PREMIUM 2 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96051
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X PREMIUM 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: X PREMIUM 3 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X PREMIUM 3 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96052
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X PREMIUM 4 HD" tvg-logo="" group-title="EU ALBANIA",ALB: X PREMIUM 4 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X PREMIUM 4 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96053
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X ACTION HD" tvg-logo="" group-title="EU ALBANIA",ALB: X ACTION HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X ACTION HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96054
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X COMEDY HD" tvg-logo="" group-title="EU ALBANIA",ALB: X COMEDY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X COMEDY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96055
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X FAMILY HD" tvg-logo="" group-title="EU ALBANIA",ALB: X FAMILY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X FAMILY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96056
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X DRAMA HD" tvg-logo="" group-title="EU ALBANIA",ALB: X DRAMA HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X DRAMA HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96057
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X THRILLER HD" tvg-logo="" group-title="EU ALBANIA",ALB: X THRILLER HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X THRILLER HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96058
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X FILMA 24 HD" tvg-logo="" group-title="EU ALBANIA",ALB: X FILMA 24 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X FILMA 24 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96059
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X DARK HD" tvg-logo="" group-title="EU ALBANIA",ALB: X DARK HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X DARK HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96060
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X ROMANCE HD" tvg-logo="" group-title="EU ALBANIA",ALB: X ROMANCE HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X ROMANCE HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96061
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X SCI-FI HD" tvg-logo="" group-title="EU ALBANIA",ALB: X SCI-FI HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X SCI-FI HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96062
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X WESTERN HD" tvg-logo="" group-title="EU ALBANIA",ALB: X WESTERN HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X WESTERN HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96063
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X HUMOR HD" tvg-logo="" group-title="EU ALBANIA",ALB: X HUMOR HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X HUMOR HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96064
-#EXTINF:-1 tvg-ID="" tvg-name="===== KUJTESA FILM =====" tvg-logo="" group-title="EU ALBANIA",===== KUJTESA FILM =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== KUJTESA FILM =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96065
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILMBOX PREMIUM" tvg-logo="" group-title="EU ALBANIA",ALB: FILMBOX PREMIUM
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FILMBOX PREMIUM
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96066
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILMBOX ARTHOUSE" tvg-logo="" group-title="EU ALBANIA",ALB: FILMBOX ARTHOUSE
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FILMBOX ARTHOUSE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96067
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILMBOX EXTRA" tvg-logo="" group-title="EU ALBANIA",ALB: FILMBOX EXTRA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FILMBOX EXTRA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96068
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FILMBOX PLUS" tvg-logo="" group-title="EU ALBANIA",ALB: FILMBOX PLUS
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FILMBOX PLUS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96069
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART KINO 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART KINO 1 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ART KINO 1 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96070
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART KINO 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART KINO 2 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ART KINO 2 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96071
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART KINO 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART KINO 3 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ART KINO 3 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96072
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART EPISODE HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART EPISODE HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ART EPISODE HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96073
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART PRIME HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART PRIME HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ART PRIME HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96074
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST ACTION HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST ACTION HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FIRST ACTION HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96075
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST COMEDY HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST COMEDY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FIRST COMEDY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96076
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST DRAME HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST DRAME HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FIRST DRAME HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96077
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST FAMILY HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST FAMILY HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FIRST FAMILY HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96078
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIRST THRILLER HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIRST THRILLER HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FIRST THRILLER HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96079
-#EXTINF:-1 tvg-ID="" tvg-name="===== DOKUMENTARE =====" tvg-logo="" group-title="EU ALBANIA",===== DOKUMENTARE =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== DOKUMENTARE =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96080
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: EXPLORER SHKENCE" tvg-logo="" group-title="EU ALBANIA",ALB: EXPLORER SHKENCE
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="EU ALBANIA",ALB: EXPLORER SHKENCE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96081
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: EXPLORER NATYRA" tvg-logo="" group-title="EU ALBANIA",ALB: EXPLORER NATYRA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: EXPLORER NATYRA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96082
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: EXPLORER HISTORI" tvg-logo="" group-title="EU ALBANIA",ALB: EXPLORER HISTORI
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: EXPLORER HISTORI
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96083
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING HISTORY" tvg-logo="" group-title="EU ALBANIA",ALB: TRING HISTORY
+#EXTINF:0 tvg-id="T-Hist.al" group-title="EU ALBANIA",ALB: TRING HISTORY
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96084
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING PLANET" tvg-logo="" group-title="EU ALBANIA",ALB: TRING PLANET
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="EU ALBANIA",ALB: TRING PLANET
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96085
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING WORLD" tvg-logo="" group-title="EU ALBANIA",ALB: TRING WORLD
+#EXTINF:0 tvg-id="TringWorld.al" group-title="EU ALBANIA",ALB: TRING WORLD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96086
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X HISTORI HD" tvg-logo="" group-title="EU ALBANIA",ALB: X HISTORI HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X HISTORI HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96087
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X NATYRA HD" tvg-logo="" group-title="EU ALBANIA",ALB: X NATYRA HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X NATYRA HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96088
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X SHKENCE HD" tvg-logo="" group-title="EU ALBANIA",ALB: X SHKENCE HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X SHKENCE HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96089
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SKY PLANET" tvg-logo="" group-title="EU ALBANIA",ALB: SKY PLANET
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SKY PLANET
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96090
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SKY SHKENCE" tvg-logo="" group-title="EU ALBANIA",ALB: SKY SHKENCE
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SKY SHKENCE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96091
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: DISCOVERY TURBO EXTRA" tvg-logo="" group-title="EU ALBANIA",ALB: DISCOVERY TURBO EXTRA
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: DISCOVERY TURBO EXTRA
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96092
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: DISCOVERY SCIENCE" tvg-logo="" group-title="EU ALBANIA",ALB: DISCOVERY SCIENCE
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: DISCOVERY SCIENCE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96093
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: DISCOVERY CHANNEL" tvg-logo="" group-title="EU ALBANIA",ALB: DISCOVERY CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: DISCOVERY CHANNEL
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96094
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="EU ALBANIA",ALB: NATIONAL GEOGRAPHIC
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: NATIONAL GEOGRAPHIC
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96095
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="EU ALBANIA",ALB: NATIONAL GEOGRAPHIC WILD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: NATIONAL GEOGRAPHIC WILD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96096
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: HISTORY CHANNEL" tvg-logo="" group-title="EU ALBANIA",ALB: HISTORY CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: HISTORY CHANNEL
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96097
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: 24 KITCHEN" tvg-logo="" group-title="EU ALBANIA",ALB: 24 KITCHEN
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: 24 KITCHEN
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96098
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TLC" tvg-logo="" group-title="EU ALBANIA",ALB: TLC
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TLC
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96099
-#EXTINF:-1 tvg-ID="" tvg-name="===== MUSIC =====" tvg-logo="" group-title="EU ALBANIA",===== MUSIC =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== MUSIC =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96100
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: MY MUSIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: MY MUSIC HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: MY MUSIC HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96101
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q FOLK HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q FOLK HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q FOLK HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96102
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q QIFTELI HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q QIFTELI HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q QIFTELI HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96103
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X MUSIC HITS HD" tvg-logo="" group-title="EU ALBANIA",ALB: X MUSIC HITS HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X MUSIC HITS HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96104
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X POPULLORE HD" tvg-logo="" group-title="EU ALBANIA",ALB: X POPULLORE HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X POPULLORE HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96105
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: X CIFTELI HD" tvg-logo="" group-title="EU ALBANIA",ALB: X CIFTELI HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: X CIFTELI HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96106
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI QIFTELI HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI QIFTELI HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV PLISI QIFTELI HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96107
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: RTV21 POPULLORE" tvg-logo="" group-title="EU ALBANIA",ALB: RTV21 POPULLORE
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: RTV21 POPULLORE
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96108
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: Q JETA HD" tvg-logo="" group-title="EU ALBANIA",ALB: Q JETA HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: Q JETA HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96109
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SYRI BLU MUSIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: SYRI BLU MUSIC HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SYRI BLU MUSIC HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96110
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SYRI TV HD" tvg-logo="" group-title="EU ALBANIA",ALB: SYRI TV HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SYRI TV HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/111246
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ZICO TV" tvg-logo="" group-title="EU ALBANIA",ALB: ZICO TV
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ZICO TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96112
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: A-MOL TV" tvg-logo="" group-title="EU ALBANIA",ALB: A-MOL TV
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: A-MOL TV
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96113
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV PLISI HD" tvg-logo="" group-title="EU ALBANIA",ALB: TV PLISI HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV PLISI HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96114
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TOP ESTRADA MUSIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: TOP ESTRADA MUSIC HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TOP ESTRADA MUSIC HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96115
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ALB" tvg-logo="" group-title="EU ALBANIA",ALB: ALB
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ALB
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96116
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TV ZJARR" tvg-logo="" group-title="EU ALBANIA",ALB: TV ZJARR
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TV ZJARR
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96117
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SKY MUSIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: SKY MUSIC HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SKY MUSIC HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96118
-#EXTINF:-1 tvg-ID="" tvg-name="ALB:  ASHKALI ISLAM" tvg-logo="" group-title="EU ALBANIA",ALB:  ASHKALI ISLAM
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB:  ASHKALI ISLAM
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96119
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: MIX MUSIC HD" tvg-logo="" group-title="EU ALBANIA",ALB: MIX MUSIC HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: MIX MUSIC HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96120
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ELRODI" tvg-logo="" group-title="EU ALBANIA",ALB: ELRODI
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ELRODI
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96121
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FOLK" tvg-logo="" group-title="EU ALBANIA",ALB: FOLK
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="EU ALBANIA",ALB: FOLK
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96122
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FOLK+" tvg-logo="" group-title="EU ALBANIA",ALB: FOLK+
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FOLK+
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96123
-#EXTINF:-1 tvg-ID="" tvg-name="===== SUPER SPORTS =====" tvg-logo="" group-title="EU ALBANIA",===== SUPER SPORTS =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== SUPER SPORTS =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96124
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 1 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 1 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96125
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 1 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 1 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 1 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96126
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 2 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96127
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 2 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 2 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 2 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96128
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 3 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 3 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96129
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 3 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 3 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 3 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96130
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 4 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 4 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 4 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96131
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 4 4K (ONLY MATCH TIME)" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 4 4K (ONLY MATCH TIME)
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 4 4K (ONLY MATCH TIME)
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96132
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 5 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 5 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 5 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96133
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 5 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 5 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 5 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96134
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 6 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 6 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 6 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96135
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 6 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 6 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 6 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96136
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 7 HD" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 7 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 7 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96137
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: SUPER SPORT 7 4K" tvg-logo="" group-title="EU ALBANIA",ALB: SUPER SPORT 7 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: SUPER SPORT 7 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96138
-#EXTINF:-1 tvg-ID="" tvg-name="===== TRING SPORTS =====" tvg-logo="" group-title="EU ALBANIA",===== TRING SPORTS =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== TRING SPORTS =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96139
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT NEWS" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT NEWS
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="EU ALBANIA",ALB: TRING SPORT NEWS
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96140
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT NEWS HD" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT NEWS HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TRING SPORT NEWS HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96141
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT 1 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TRING SPORT 1 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96142
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TRING SPORT 2 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96143
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT 3 HD (ONLY MATCH TIME)" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT 3 HD (ONLY MATCH TIME)
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TRING SPORT 3 HD (ONLY MATCH TIME)
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96144
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: TRING SPORT 4 HD (ONLY MATCH TIME)" tvg-logo="" group-title="EU ALBANIA",ALB: TRING SPORT 4 HD (ONLY MATCH TIME)
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: TRING SPORT 4 HD (ONLY MATCH TIME)
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96145
-#EXTINF:-1 tvg-ID="" tvg-name="===== KUJTESA SPORT =====" tvg-logo="" group-title="EU ALBANIA",===== KUJTESA SPORT =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== KUJTESA SPORT =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96146
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: K SPORT 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: K SPORT 1 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: K SPORT 1 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96147
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: K SPORT 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: K SPORT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: K SPORT 2 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96148
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: K SPORT 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: K SPORT 3 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: K SPORT 3 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96149
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: K SPORT 4 HD" tvg-logo="" group-title="EU ALBANIA",ALB: K SPORT 4 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: K SPORT 4 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96150
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: K SPORT 5 HD" tvg-logo="" group-title="EU ALBANIA",ALB: K SPORT 5 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: K SPORT 5 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96151
-#EXTINF:-1 tvg-ID="" tvg-name="==== ART MOTION SPORT =====" tvg-logo="" group-title="EU ALBANIA",==== ART MOTION SPORT =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",==== ART MOTION SPORT =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96152
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART SPORT 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART SPORT 1 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ART SPORT 1 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96153
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART SPORT 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART SPORT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ART SPORT 2 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96154
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ART SPORT 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ART SPORT 3 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ART SPORT 3 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96155
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: FIGHT BOX HD" tvg-logo="" group-title="EU ALBANIA",ALB: FIGHT BOX HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: FIGHT BOX HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96156
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: EDGE SPORT 4K" tvg-logo="" group-title="EU ALBANIA",ALB: EDGE SPORT 4K
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: EDGE SPORT 4K
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96157
-#EXTINF:-1 tvg-ID="" tvg-name="===== ISLAM =====" tvg-logo="" group-title="EU ALBANIA",===== ISLAM =====
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",===== ISLAM =====
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96158
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ISLAM CHANNEL 1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ISLAM CHANNEL 1 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ISLAM CHANNEL 1 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96159
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ISLAM CHANNEL 2 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ISLAM CHANNEL 2 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ISLAM CHANNEL 2 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96160
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ISLAM CHANNEL 3 HD" tvg-logo="" group-title="EU ALBANIA",ALB: ISLAM CHANNEL 3 HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ISLAM CHANNEL 3 HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96161
-#EXTINF:-1 tvg-ID="" tvg-name="ALB: ISLAM CHANNEL FEMIJE HD" tvg-logo="" group-title="EU ALBANIA",ALB: ISLAM CHANNEL FEMIJE HD
+#EXTINF:0 tvg-id="ext" group-title="EU ALBANIA",ALB: ISLAM CHANNEL FEMIJE HD
 http://firetvset.com:25461/vYcg8Frp7bc7Cpf/pJZTyZ2rtzGuRSg/96162
+
