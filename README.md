@@ -1,1 +1,1 @@
-[IPnPlay DLNA Ready IPTV Player](“https://ipnplay.com/”)
+https://ipnplay.com/
