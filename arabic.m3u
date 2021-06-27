@@ -1,0 +1,746 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="General",22 TV
+http://82.212.74.99:8000/live/hls/8117.m3u8
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="General",2M Maroc
+http://149.100.19.226:8001/play/2M_Maroc
+#EXTINF:0 tvg-id="2MMonde.ma" group-title="General",2M Monde (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",3eesh Al Aan TV
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
+#EXTINF:0 tvg-id="AbuDhabiDrama.net" group-title="General",Abu Dhabi Drama (1080p)
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Aden TV
+https://master.starmena-cloud.com/hls/aden.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",AFAQ TV
+http://149.100.19.226:8001/play/AFAQ_TV
+#EXTINF:0 tvg-id="ext" group-title="General",Africa TV1 (720p)
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Africa TV2 (720p)
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u
+#EXTINF:0 tvg-id="ext" group-title="General",Africa TV2 (720p)
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Africa TV3 (720p)
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u
+#EXTINF:0 tvg-id="ext" group-title="General",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="AlAan.net" group-title="General",Al Aan (720p) [Not 24/7]
+https://iptv--iptv.repl.co/streamlink?url=https://www.dailymotion.com/video/x74wje5
+#EXTINF:0 tvg-id="AlAan.net" group-title="General",Al Aan (720p)
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x74wje5
+#EXTINF:0 tvg-id="ext" group-title="General",Al Alam
+http://149.100.19.226:8001/play/AL_ALAM_SYRIA_TV
+#EXTINF:0 tvg-id="AlAoula.ma" group-title="General",Al Aoula (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Aoula Laayoune (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Dafrah TV
+http://149.100.19.226:8001/play/AL_DAFRA_HD
+#EXTINF:0 tvg-id="ext" group-title="General",Al Dafrah TV (1080p)
+https://iptv-all.lanesh4d0w.codes/saudiarabia/aldafrah
+#EXTINF:0 tvg-id="ext" group-title="General",AL HOKAIR Group TV
+http://82.212.74.3:8000/live/7513.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Ittihad (552p)
+https://live.alittihad.tv/ittihad/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Jadeed (1080p)
+http://web.teledunet.com:8080/live/azrotv/azrotv2021/10008.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Khalij (1080p)
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="General",Al Maghribia (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="General",Al Maghribia (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Mahrah
+http://82.212.74.99:8000/live/hls/8173.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Rasheed (408p)
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Rayyan (1080p)
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Saudiya (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Saudiya (1080p)
+https://iptv--iptv.repl.co/Arabic/Saudi1_TV/
+#EXTINF:0 tvg-id="ext" group-title="General",Al Sharqiya (450p)
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Sharqiya Min Kabla (1080p)
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al Sumaria (1080p)
+http://iptv.repl.co/Arabic/Al_summaria/
+#EXTINF:0 tvg-id="ext" group-title="General",Al Wousta TV (1080p)
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Al-Rafidain TV
+http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Alfajer Tv HD 2 (720p)
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Algerie TV4
+https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Algerie TV5
+https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",ALGERIE TV6
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Alhayat TV (720p)
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Alhiwar TV (1080p)
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Amman TV (720p)
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="General",Assadissa (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Assyrian ANB (720p)
+https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Athaqafia (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ATV.am" group-title="General",atv
+rtmp://168.187.49.14:1935/live//atv?v=
+#EXTINF:0 tvg-id="ext" group-title="General",Babylon TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/28
+#EXTINF:0 tvg-id="ext" group-title="General",BAHIA TV
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Bahrain International (720p)
+http://185.105.4.106:1935/live/Bahrain%20International/playlist.m3u8
+#EXTINF:0 tvg-id="BahrainTV.net" group-title="General",Bahrain TV (720p)
+http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8
+#EXTINF:0 tvg-id="DubaiOne.ae" group-title="General",Dubai One (1080p)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="DubaiTVHD.net" group-title="General",Dubai TV (1080p)
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Elsharq TV (1080p)
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",EN TV
+http://82.212.74.100:8000/live/8130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Ennahar TV (240p)
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Ennahar TV (360p)
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Ennahar TV
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",ENTV
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
+#EXTINF:0 tvg-id="avi" group-title="General",eXtra News [Not 24/7]
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
+#EXTINF:0 tvg-id="FutureTV.net" group-title="General",Future TV (486p)
+https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Hawas TV
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Ishtar TV (1080p)
+http://176.9.102.245:1935/iShtarTV/liveStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Lana HD TV (720p)
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Lana Plus TV (720p)
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+#EXTINF:0 tvg-id="lbc.il" group-title="General",LBC (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",LBC International (1080p)
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:0 tvg-id="MBC1.net" group-title="General",MBC 1 KSA (1080p)
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",MBC 1 USA (1080p)
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
+#EXTINF:0 tvg-id="MBC4.net" group-title="General",MBC 4 (1080p)
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="General",MBC Bollywood (1080p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="General",MBC Drama KSA (1080p)
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",MBC Drama USA (1080p)
+https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",MBC Iraq (1080p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",MBC Masr 1 (1080p)
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",MBC Masr 1 USA (1080p)
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",MBC Masr 2 (1080p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",MusawaChannel (404p)
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Noor Dubai (576p)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:0 tvg-id="ext" group-title="General",Oman TV (1080p)
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Oman TV Mubashir (1080p)
+https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Omg Channel TV
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Omg Series
+http://media6.smc-host.com:1935/omgchannel.net/omgseries/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",OTV (1080p)
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Palestine Satellite Channel
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Palestine Satellite Channel (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8
+#EXTINF:0 tvg-id="QatarTV.net" group-title="General",Qatar TV (720p)
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:0 tvg-id="QatarTV.net" group-title="General",Qatar TV (720p) [Not 24/7]
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Qatar TV 2 (720p)
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",ROJAVA TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/55
+#EXTINF:0 tvg-id="ext" group-title="General",Ronahî TV
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Rotana Drama HD (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-drama.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Rotana Drama HD (1080p)
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Rotana+ (1080p)
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Roya TV (720p)
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Sahel TV (720p)
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="SamaDubai.net" group-title="General",Sama Dubai (1080p)
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Sama TV [Not 24/7]
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Samira TV
+https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",SAT-7 ARABIC (720p)
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",SAT-7 KIDS (720p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Sawt El Mada (460p) [Not 24/7]
+https://svs.itworkscdn.net/madalive/mada/playlist.m3u8
+#EXTINF:0 tvg-id="Sbc.gr" group-title="General",SBC (1080p)
+https://iptv--iptv.repl.co/Arabic/SBC
+#EXTINF:0 tvg-id="ext" group-title="General",Syria Satellite Channel (270p)
+http://82.137.248.16:1935/Sat/stream19042021/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Syria TV (1080p)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Tamazight (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Tamazight (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Tele Liban (576p)
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Ten TV
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Télé Maroc (1080p)
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Ugarit TV [not 24/7]
+http://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Watan TV (1080p)
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Watan TV
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Weyyak Action (720p)
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Weyyak Drama (720p)
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Weyyak Mix (720p)
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Weyyak Nawaem (720p)
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",Zagros (720p)
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="General",Zee Aflam (720p)
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="General",Zee Alwan (720p)
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Religious",ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Ahlu Al Quran TV (720p)
+https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Ajman HD
+http://149.100.19.226:8001/play/AJMAN_HD
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al Aqsa Channel (480p)
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al Hayat TV (720p)
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al Hayat TV (360p)
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al Horreya TV (1080p)
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al Istiqama TV (576p)
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al Maaref TV (350p)
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:0 tvg-id="AlQuranAlKareemTV.tr" group-title="Religious",Al Quran Al Kareem TV
+http://45.92.69.131:8001/play/a00f
+#EXTINF:0 tvg-id="AlQuranAlKareemTV.tr" group-title="Religious",Al Quran Al Kareem TV (Mecca) (720p)
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:0 tvg-id="AlQuranAlKareemTV.tr" group-title="Religious",Al Quran Al Kareem TV (Mecca) (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:0 tvg-id="AlQuranAlKareemTV.tr" group-title="Religious",Al Quran Al Kareem TV (Mecca) (1080p)
+https://iptv--iptv.repl.co/Arabic/Quran_TV/
+#EXTINF:0 tvg-id="avi" group-title="Religious",Al Rassoul
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/AlRassoulChannel/live
+#EXTINF:0 tvg-id="AlSunnahAlNabawiyahTV.tr" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina)
+http://45.92.69.131:8001/play/a00g
+#EXTINF:0 tvg-id="AlSunnahAlNabawiyahTV.tr" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (720p)
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:0 tvg-id="AlSunnahAlNabawiyahTV.tr" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:0 tvg-id="AlSunnahAlNabawiyahTV.tr" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (1080p)
+https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al Wesal TV (720p)
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al-Resalah (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al-Resalah (1080p)
+https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Al-Shahed
+https://easybroadcast.akamaized.net/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alerth Alnabawi
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Aliman TV (240p)
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkafeel: Between the two holy shrines
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkafeel: The entrance of the holy sanctuary [Not 24/7]
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkafeel: The Holy Tomb [Not 24/7]
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkafeel: The window of Al-Kafeel
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Australia (1080p)
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Family (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Middle East (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV North America & Canada (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Praise (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Talmaza (Discipleship) (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Alkarma TV Youth & English (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Bahrain Quran (720p)
+http://185.105.4.106:1935/live/Bahrain%20Quran/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CharityTV (1080p)
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CNA (Chaîne Nord Africaine) (360p)
+https://live.creacast.com/cna/smil:cna.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Coptic TV (720p)
+https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",CYC (Christan Youth Channel) (1080p)
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Elbeshara Tv
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Imam Hussein TV 2 Arabic
+https://ar.imamhusseintv.com/live/ih201/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Imam Hussein TV 2 Arabic (720p)
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:0 tvg-id="Iqraa.net" group-title="Religious",Iqraa (576p)
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Kaif TV
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Makkah TV (480p)
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Religious",MESat [Not 24/7]
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCg5uHOxrP5GkMWldOavPKGQ/live
+#EXTINF:0 tvg-id="ext" group-title="Religious",Minbij TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/45
+#EXTINF:0 tvg-id="ext" group-title="Religious",MTA 3 (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Nour Al Koddas (406p)
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Nour Al Sharq (576p)
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Nour Mariam (576p)
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",NourSAT (576p)
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Sharjah 2 (1080p)
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Sharjah TV (1080p)
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Suboro TV
+https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",Sudan TV (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",The Kingdom Sat (576p)
+https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",ZAD TV
+http://149.100.19.226:8001/play/ZAD_TV
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ADSports4.net" group-title="Sports",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass Five (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass Four (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4aobe/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass One (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8
+#EXTINF:0 tvg-id="AlKass.net" group-title="Sports",Al Kass Online (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnlineG129/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass Two (576p)
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Arryadia (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Bahrain Sports 2
+http://185.105.4.107:1935/live/Bahrain%20Sports%202/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Bahrain Sports 2 (720p)
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Racing 3 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",KSA Sports +1
+http://45.92.69.131:8001/play/a00i
+#EXTINF:0 tvg-id="ext" group-title="Sports",KSA Sports 1
+http://45.92.69.131:8001/play/a00c
+#EXTINF:0 tvg-id="ext" group-title="Sports",KSA Sports 2
+http://45.92.69.131:8001/play/a00b
+#EXTINF:0 tvg-id="ext" group-title="Sports",KTV 1 (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",KTV 2 (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",KTV Al Majlis (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",KTV Al Qurain (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
+#EXTINF:0 tvg-id="KTV.uk" group-title="Sports",KTV Arabe (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",KTV Ethraa (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",KTV Khallik Bilbait (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",KTV Sport (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",KTV Sport Plus (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Oman Sport (1080p)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Yas (1080p)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="News",Al Alam (576p)
+https://live2.alalamtv.net/alalam.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Alamiya 2
+http://82.212.74.98:8000/live/7815.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",AL ANIS TV
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-id="AlArabiya.nws" group-title="News",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Ekhbariya (1080p)
+https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
+#EXTINF:0 tvg-id="AlArabiyaAlHadath.net" group-title="News",Al Hadath TV
+https://av.alarabiya.net/alarabiapublish/alhadath_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Hurra (486p)
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Hurra (486p)
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Hurra (720p)
+https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Hurra Iraq (720p)
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Iraqiya Al 3ama (720p)
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Iraqiya News (720p)
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:0 tvg-id="AlJazeeraArabe.nws" group-title="News",Al Jazeera Arabic (480p)
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:0 tvg-id="AlJazeeraArabe.nws" group-title="News",Al Jazeera Arabic (1080p)
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Manar (576p)
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Masirah (720p)
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Masirah Mubacher (642p)
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Mayadeen (576p)
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Qamar TV (360p)
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Rafidain (1024p)
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Rafidain HQ (1024p)
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Sharqiya News (450p)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Yaum TV (720p)
+https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Zahra TV
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al-Bawadi
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Alaraby TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Alghad Almushreq
+http://82.212.74.3:8000/live/7512.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Algérie TV3
+https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
+#EXTINF:0 tvg-id="BBCArabic.net" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:0 tvg-id="BBCArabic.net" group-title="News",BBC Arabic (540p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+#EXTINF:0 tvg-id="avi" group-title="News",Bee Movies [Not 24/7]
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
+#EXTINF:0 tvg-id="avi" group-title="News",Bee Theater [Not 24/7]
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC32M9DWf0zgMhBYGd_MOiIw/live
+#EXTINF:0 tvg-id="ext" group-title="News",Dijlah
+http://91.134.145.75:10001/Dijlah/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Dijlah (576p)
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",DW Arabic (400p)
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Echorouk News (240p) [Not 24/7]
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Echorouk News (480p)
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Echorouk TV (720p)
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",EL BILAD
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",El Djazair N1
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",El Djazairia One
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",EL FADJR TV
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",EL HAYAT TV
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",France 24 Arabic (1080p)
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",France 24 Arabic (576p)
+https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Free Music TV
+http://149.100.19.226:8001/play/Free_TV
+#EXTINF:0 tvg-id="ext" group-title="News",Halab Today TV (480p) [Not 24/7]
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="News",Halab Today TV (720p) [Not 24/7]
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnh5Faqn_r9HxeNd_dsvGHQ/live
+#EXTINF:0 tvg-id="ext" group-title="News",Jamahiria TV
+https://master.starmena-cloud.com/hls/jam.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Libya 218
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Libya 218 News [Not 24/7]
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Libya Al Ahrar TV
+https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Libya Al Hadath
+https://master.starmena-cloud.com/hls/hd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Libya Channel
+https://master.starmena-cloud.com/hls/libyas.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Lina TV
+https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",M24 TV HD (720p)
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Arabic (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Medi 1 TV Maghreb (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Mekameleen TV (720p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Melody Classic
+http://149.100.19.226:8001/play/M_CLASSIC
+#EXTINF:0 tvg-id="ext" group-title="News",Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Nabaa TV (480p)
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Newvision
+https://master.starmena-cloud.com/hls/newv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Nile Cinema
+http://149.100.19.226:8001/play/Nile_Cinema
+#EXTINF:0 tvg-id="ext" group-title="News",Nile Comedy
+http://149.100.19.226:8001/play/Nile_Comedy
+#EXTINF:0 tvg-id="ext" group-title="News",Nile Culture
+http://149.100.19.226:8001/play/Nile_Culture
+#EXTINF:0 tvg-id="ext" group-title="News",Nile Drama
+http://149.100.19.226:8001/play/Nile_Drama
+#EXTINF:0 tvg-id="ext" group-title="News",Nile Family
+http://149.100.19.226:8001/play/Nile_Family
+#EXTINF:0 tvg-id="ext" group-title="News",Nile Life
+http://149.100.19.226:8001/play/Nile_Life
+#EXTINF:0 tvg-id="ext" group-title="News",Nile News
+http://149.100.19.226:8001/play/Nile_News
+#EXTINF:0 tvg-id="ext" group-title="News",Nile Sport
+http://149.100.19.226:8001/play/Nile_Sport
+#EXTINF:0 tvg-id="ext" group-title="News",Palestine Today (480p)
+https://live.paltoday.tv/paltv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RT Arabic (720p)
+http://rt-arab.secure.footprint.net:80/1104.m3u8
+#EXTINF:0 tvg-id="SkyNwsArabia.uk" group-title="News",Sky News Arabia (720p)
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Suhail TV
+http://82.212.74.98:8000/live/hls/7726.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Syrian News Channel (270p)
+http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
+#EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="News",TRT Arabi (1080p)
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TV Seventeen (720p)
+https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TV7 ELMAARIFA
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TV8 EDHAKIRA
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Unews (360p)
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Al Jazeera Documentary (576p)
+http://teledunet.com:8080/live/azrotv/azrotv2021/10040.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:0 tvg-id="NatGeoAD.net" group-title="Documentary",National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Legislative",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Classic",Al Rayyan Al Qadeem (1080p)
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Classic",Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Classic",Rotana Classic HD (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-classical.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Classic",Rotana Classic HD (1080p)
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Classic",Thikrayat TV (1080p)
+https://iptv--iptv.repl.co/Arabic/Zikrayat/
+
+#EXTINF:0 tvg-id="ext" group-title="Music",alltv (400p)
+http://185.96.70.242:1935/live/alltv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Alrai TV (1080p)
+https://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Alrai TV
+https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Dijlah Tarab (576p)
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Falastini (1080p)
+http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Jawhara FM (720p)
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Marah FM (720p)
+http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Marina TV
+https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/live/MarinaTv_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",MBC FM (1080p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Melody FM Jordan
+https://cdn3.wowza.com/1/ZFBldUlPNjRBRDZM/ZW90V2ZW/hls/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Nogoum FM TV (180p)
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Nojoum TV
+http://51.210.199.41/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Orient Radio + Palestine Mubasher
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Panorama FM (1080p)
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Rotana Khalijia HD (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Rotana Khalijia HD (1080p)
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:0 tvg-id="RotanaMusic.il" group-title="Music",Rotana Music (1080p)
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Rotana Radio Jordan (220p)
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Souryana Radio (270p)
+http://82.137.248.16:1935/Souryana/stream19042021/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Business",Asharq (1280p) [Portrait]
+https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Business",Asharq (1080p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Business",CNBC Arabiya (720p)
+https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kids",Atfal Wa Mawaheb
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Cartoon Network Arabic (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",CGTN Arabic (720p)
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Ch4Teen (480p)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Gulli Bil Arabi (1080p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Hala London (1080p)
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="HalaTV.il" group-title="Kids",Hala TV (1080p)
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Majid TV (1080p)
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="MBC3.net" group-title="Kids",MBC 3 (1080p)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",MBC 3 EUR (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",MBC 3 USA (1080p)
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Rotana Kids (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Spacetoon
+http://45.92.69.131:8001/play/a023
+#EXTINF:0 tvg-id="ext" group-title="Kids",Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Spacetoon (576p)
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Kids",Toyor Al-Jannah [Not 24/7]
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/toyorlive/live
+
+#EXTINF:0 tvg-id="ext" group-title="Outdoor",Beity
+http://82.212.74.2:8000/live/7312.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Outdoor",Belqees TV
+https://svs.itworkscdn.net/itwlive/itw3.smil/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Outdoor",Canadian Arab TV
+http://142.112.39.133:8080/catv.mp4
+#EXTINF:0 tvg-id="ext" group-title="Outdoor",Canadian Arab TV (720p)
+http://142.112.39.133:8080/hls/catv/index.m3u8
+#EXTINF:0 tvg-id="CanalAlgerie.dz" group-title="Outdoor",Canal Algérie
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
+#EXTINF:0 tvg-id="NatGeoAD.net" group-title="Outdoor",National Geographic Abu Dhabi (1080p)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Outdoor",NBN HD (720p)
+https://nbntv.me:8443/nbntv/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Shop",Citruss TV (720p)
+https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",GEM Arabia [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",iFILM Arabic (720p)
+https://live.presstv.com/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:0 tvg-id="MBC2.ae" group-title="Movies",MBC 2 (1080p)
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:0 tvg-id="MBCAction.net" group-title="Movies",MBC Action (1080p)
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:0 tvg-id="MBCMax.net" group-title="Movies",MBC Max (1080p)
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rotana Cinema HD (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rotana Cinema HD (1080p)
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rotana Cinema HD KSA (1080p)
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Syria Drama (270p)
+http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Travel",Jasco Events TV
+http://82.212.74.100:8000/live/hls/8131.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Travel",Tunisie Immobilier TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Education",Oman TV Cultural (1080p)
+https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Education",Syrian Education TV (270p)
+http://82.137.248.16:1935/SEdu/stream19042021/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Education",Yemen Shabab
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Comedy",Rotana Comedy HD (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
