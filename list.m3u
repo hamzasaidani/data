@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="http://www.livenewsalgerie.com/wp-content/uploads/2021/05/algerie-babour-ellouh-record-telechargements-application-yara-annonce-djeriou.jpeg",Babour Ellouh بابور اللوح
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="http://www.livenewsalgerie.com/wp-content/uploads/2021/05/algerie-babour-ellouh-record-telechargements-application-yara-annonce-djeriou.jpeg",بابور اللوح
 https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://i0.wp.com/celebrity.tn/wp-content/uploads/2021/04/harka-wiki-synopsis-acteurs-date-de-sortie-videos-et-photos-informations.png",Harga حرقة
 https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://scefl.com/wp-content/uploads/2021/06/euro-2020-scefl.jpg",Euro 2020 Live مباريات الأورو مباشر
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://scefl.com/wp-content/uploads/2021/06/euro-2020-scefl.jpg",مباريات الأورو مباشر
 https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/bouquet-maghreb-channels.jpg",DZ IPTV قنوات جزائرية
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/bouquet-maghreb-channels.jpg",قنوات جزائرية
 https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
