@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="General",3eesh Al Aan TV
-https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:0 tvg-id="AbuDhabiDrama.net" group-title="General",Abu Dhabi Drama (1080p)
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="DubaiOne.ae" group-title="General",Dubai One (1080p)
