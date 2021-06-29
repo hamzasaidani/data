@@ -143,5 +143,5 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/45
 #EXTINF:0 tvg-id="NatGeoAD.net" group-title="Outdoor",National Geographic Abu Dhabi (1080p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",Wanasah (1080p)
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Test Channel (1080p)
+https://www.googleapis.com/drive/v3/files/1oTy0hnNFuZBZGAh-njFLWo00qgp-YUGZ?alt=media&key=AIzaSyAzoFpo82uV1R3n8aW3Jp2ylvjyYGtXlu8
