@@ -109,8 +109,6 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Legislative",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Legislative",Al Qamar TV (360p)
-https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Business",Bloomberg TV EMEA Live Event (720p)
 https://www.dropbox.com/s/c1h20ss74b3gtwg/ep20fin-converted.mp4?dl=1
