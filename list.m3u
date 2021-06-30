@@ -7,3 +7,5 @@ https://raw.githubusercontent.com/saqoah/data/main/harga.m3u
 https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/03/13153742/RT_300EssentialMovies_700X250.jpg",مباشر live EURO 2020
 http://one.d4k4u.com:8080/get.php?username=XXccqsdazeqsdaze&password=rGMSeAaH&type=m3u&output=ts
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://res.9appsinstall.com/group5/M02/00/0B/IqEHAF111MOABUu_AACvH0rQFgI298.jpg",TEST SHQIP
+http://ott4k.me:80/get.php?username=50058942318147&password=70233956050254&type=m3u&output=ts
