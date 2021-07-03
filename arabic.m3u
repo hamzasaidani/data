@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",-------Zkara----DZ------
+#EXTINF:0 tvg-id="ext" group-title="Zkara Premium",-------Zkara----DZ------
 https://edd.news/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News",ENTV
@@ -60,13 +60,9 @@ https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m
 
 #EXTINF:0 tvg-id="CanalAlgerie.dz" group-title="Business",Canal Algérie
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
-#EXTINF:0 tvg-id="Iqraa.net" group-title="Business",-------Zkara----Religion------
+#EXTINF:0 tvg-id="Iqraa.net" group-title="Zkara Premium",-------Zkara----Religion------
 https://edd.news/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Religious",Ahlu Al Quran TV (720p)
-https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
-#EXTINF:0 tvg-id="AlQuranAlKareemTV.tr" group-title="Religious",Al Quran Al Kareem TV
-http://45.92.69.131:8001/play/a00f
 #EXTINF:0 tvg-id="AlQuranAlKareemTV.tr" group-title="Religious",Al Quran Al Kareem TV (Mecca) (720p)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:0 tvg-id="AlQuranAlKareemTV.tr" group-title="Religious",Al Quran Al Kareem TV (Mecca) (360p)
