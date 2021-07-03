@@ -11,5 +11,9 @@ https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="http://www.livenewsalgerie.com/wp-content/uploads/2021/05/algerie-babour-ellouh-record-telechargements-application-yara-annonce-djeriou.jpeg",بابور اللوح babourellouh
 https://raw.githubusercontent.com/saqoah/data/main/alpha.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium سيرفر مدفوع
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium ara
 http://ott4k.me:80/get.php?username=50159848216131&password=70342907001407&type=m3u&output=ts
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium en
+http://ott4k.me:80/get.php?username=50795799552594&password=87037428346427&type=m3u&output=ts
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium fr
+http://ott4k.me:80/get.php?username=50563018123132&password=11411614293684&type=m3u&output=ts
