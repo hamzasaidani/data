@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
 https://raw.githubusercontent.com/saqoah/data/main/Converted.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.hbibi.net/images/arabic-films.jpg",arabic movies أفلام عربية
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.hbibi.net/images/arabic-films.jpg",cartoon movies أفلام كرتون
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg",cartoon movies أفلام كرتون
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="http://www.livenewsalgerie.com/wp-content/uploads/2021/05/algerie-babour-ellouh-record-telechargements-application-yara-annonce-djeriou.jpeg",بابور اللوح babourellouh
 https://raw.githubusercontent.com/saqoah/data/main/alpha.m3u
