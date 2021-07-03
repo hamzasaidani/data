@@ -2,27 +2,27 @@
 #EXTINF:0 tvg-id="ext" group-title="Zkara Premium",-------Zkara----DZ------
 https://edd.news/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="News",ENTV
+#EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",ENTV
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Algerie TV4
+#EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",Algerie TV4
 https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Algerie TV5
+#EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",Algerie TV5
 https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",ALGERIE TV6
+#EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",ALGERIE TV6
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Algérie TV3
+#EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",Algérie TV3
 https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",BAHIA TV
+#EXTINF:0 tvg-id="https://yt3.ggpht.com/ytc/AKedOLSuQDRexySxB9RSYHV1nIpSy8aNdfojIZ-Qzejb=s900-c-k-c0x00ffffff-no-rj" group-title="News",BAHIA TV
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Beur TV
 https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Echorouk News (240p) [Not 24/7]
+#EXTINF:0 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Echourouk_new_logo.jpg/220px-Echourouk_new_logo.jpg" group-title="News",Echorouk News (240p) [Not 24/7]
 http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Echorouk News (480p)
+#EXTINF:0 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Echourouk_new_logo.jpg/220px-Echourouk_new_logo.jpg" group-title="News",Echorouk News (480p)
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Echorouk TV (720p)
+#EXTINF:0 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Echourouk_new_logo.jpg/220px-Echourouk_new_logo.jpg" group-title="News",Echorouk TV (720p)
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",EL BILAD
+#EXTINF:0 tvg-id="https://www.tv-direct.fr/assets/logo/chaines/el-bilad.jpg" group-title="News",EL BILAD
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",El Djazair N1
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
@@ -46,9 +46,9 @@ https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
 https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Samira TV
 https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",TV7 ELMAARIFA
+#EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",TV7 ELMAARIFA
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",TV8 EDHAKIRA
+#EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",TV8 EDHAKIRA
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",AL ANIS TV
