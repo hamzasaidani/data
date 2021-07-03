@@ -19,5 +19,7 @@ http://ott4k.me:80/get.php?username=50159848216131&password=70342907001407&type=
 http://ott4k.me:80/get.php?username=50795799552594&password=87037428346427&type=m3u&output=ts
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium es
 http://ott4k.me:80/get.php?username=50026105735508&password=04558696351132&type=m3u&output=ts
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium bein sport
+http://ott4k.me:80/get.php?username=50131743723861&password=87724069706482&type=m3u&output=ts
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium fr
 http://ott4k.me:80/get.php?username=50563018123132&password=11411614293684&type=m3u&output=ts
