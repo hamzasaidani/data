@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://img.jakpost.net/c/2018/04/11/2018_04_11_43907_1523434073._large.jpg",el Quran بث تجريبي
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://img.jakpost.net/c/2018/04/11/2018_04_11_43907_1523434073._large.jpg",mp3 Quran بث تجريبي
 https://raw.githubusercontent.com/saqoah/data/main/EQuran.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.saphirnews.com/photo/art/grande/54622241-41080625.jpg",قنوات جزائرية dz channels
 https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
