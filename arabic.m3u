@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Denmark vs Czech",----live euro-----
-https://google-me.cdn.booyah.live/hls/113138/73879448.m3u8?ZaNa_iptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zkara Premium",----DZ-----
+https://edd.news 
 
 #EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",ENTV
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
