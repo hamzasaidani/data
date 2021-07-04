@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.technobezz.com/files/uploads/2020/06/0-1.jpg",Telegram jdid @ZkaraPremium
+https://edd.news 
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://en.shafaqna.com/wp-content/uploads/2018/03/is-15.jpg",mp3 Quran بث تجريبي
 https://raw.githubusercontent.com/saqoah/data/main/EQuran.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.saphirnews.com/photo/art/grande/54622241-41080625.jpg",قنوات جزائرية dz channels
