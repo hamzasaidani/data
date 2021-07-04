@@ -3,23 +3,13 @@
 https://raw.githubusercontent.com/saqoah/data/main/EQuran.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.saphirnews.com/photo/art/grande/54622241-41080625.jpg",قنوات جزائرية dz channels
 https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="http://www.livenewsalgerie.com/wp-content/uploads/2021/05/algerie-babour-ellouh-record-telechargements-application-yara-annonce-djeriou.jpeg",بابور اللوح babourellouh
+https://raw.githubusercontent.com/saqoah/data/main/alpha.m3u
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://pictures.artify.tn/media/md5rdypmlqgjfglwmmgd.jpg",harga :)
+https://raw.githubusercontent.com/saqoah/data/main/harga.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/03/13153742/RT_300EssentialMovies_700X250.jpg",english movies أفلام أجنبية
 https://raw.githubusercontent.com/saqoah/data/main/Converted.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.hbibi.net/images/arabic-films.jpg",arabic movies أفلام عربية
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg",cartoon movies أفلام كرتون
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="http://www.livenewsalgerie.com/wp-content/uploads/2021/05/algerie-babour-ellouh-record-telechargements-application-yara-annonce-djeriou.jpeg",بابور اللوح babourellouh
-https://raw.githubusercontent.com/saqoah/data/main/alpha.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://pictures.artify.tn/media/md5rdypmlqgjfglwmmgd.jpg",harga :)
-https://raw.githubusercontent.com/saqoah/data/main/harga.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium ara
-http://ott4k.me:80/get.php?username=50159848216131&password=70342907001407&type=m3u&output=ts
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium en
-http://ott4k.me:80/get.php?username=50795799552594&password=87037428346427&type=m3u&output=ts
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium es
-http://ott4k.me:80/get.php?username=50026105735508&password=04558696351132&type=m3u&output=ts
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium bein sport
-http://ott4k.me:80/get.php?username=50131743723861&password=87724069706482&type=m3u&output=ts
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.online-tech-tips.com/wp-content/uploads/2020/05/youtube-premium-1.png",premium fr
-http://ott4k.me:80/get.php?username=50563018123132&password=11411614293684&type=m3u&output=ts
