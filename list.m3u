@@ -5,11 +5,11 @@ https://raw.githubusercontent.com/saqoah/data/main/EQuran.m3u
 https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://deadline.com/wp-content/uploads/2019/10/tom-and-jerry.jpg",بابور اللوح babourellouh
 https://raw.githubusercontent.com/saqoah/data/main/alpha.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://pictures.artify.tn/media/md5rdypmlqgjfglwmmgd.jpg",harga مسلسل حرقة
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="e",harga مسلسل حرقة
 https://raw.githubusercontent.com/saqoah/data/main/harga.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/03/13153742/RT_300EssentialMovies_700X250.jpg",english movies أفلام أجنبية
 https://raw.githubusercontent.com/saqoah/data/main/Converted.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.hbibi.net/images/arabic-films.jpg",arabic movies أفلام عربية
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="e",arabic movies أفلام عربية
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg",cartoon movies أفلام كرتون
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="e",cartoon movies أفلام كرتون
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
