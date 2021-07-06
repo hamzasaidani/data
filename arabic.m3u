@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Zkara Premium",----DZ-----
-https://edd.news 
-
 #EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",ENTV
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
 #EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",Algerie TV4
@@ -12,7 +9,7 @@ https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
 #EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",Algérie TV3
 https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
-#EXTINF:0 tvg-id="https://yt3.ggpht.com/ytc/AKedOLSuQDRexySxB9RSYHV1nIpSy8aNdfojIZ-Qzejb=s900-c-k-c0x00ffffff-no-rj" group-title="News",BAHIA TV
+#EXTINF:0 tvg-id="ext" group-title="News",BAHIA TV
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Beur TV
 https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
@@ -50,19 +47,10 @@ https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
 #EXTINF:0 tvg-id="https://www.entv.dz/wp-content/uploads/2019/11/logo-entv-2.png" group-title="News",TV8 EDHAKIRA
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",AL ANIS TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Abu Dhabi Sports 1 (1080p)
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports4.net" group-title="Sports",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
-https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-
 #EXTINF:0 tvg-id="CanalAlgerie.dz" group-title="Business",Canal Algérie
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
-#EXTINF:0 tvg-id="Iqraa.net" group-title="Zkara Premium",-------Zkara----Religion------
-https://edd.news/playlist.m3u8
-
 #EXTINF:0 tvg-id="AlQuranAlKareemTV.tr" group-title="Religious",Al Quran Al Kareem TV (Mecca) (720p)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:0 tvg-id="AlQuranAlKareemTV.tr" group-title="Religious",Al Quran Al Kareem TV (Mecca) (360p)
