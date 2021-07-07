@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://media-exp3.licdn.com/dms/image/C511BAQHSKFHnKxp3nQ/company-background_10000/0/1519808400431?e=2159024400&v=beta&t=k6DZrcogpL_WrcQt8uSId9_lkidwgWXP13Wvbmn8kIk",http://edd.news/zkara
-https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
+https://edd.news/hh.mp4
 
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://en.shafaqna.com/wp-content/uploads/2018/03/is-15.jpg",mp3Quran.net المكتبة الصوتية للقرآن الكريم
 https://raw.githubusercontent.com/saqoah/data/main/EQuran.m3u
@@ -17,4 +17,4 @@ https://raw.githubusercontent.com/saqoah/data/main/Converted.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="e",Tratov Film FR (Test)
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="e",cartoon movies أفلام كرتون
-https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
+https://edd.news/hh.mp4
