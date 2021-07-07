@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-id="e" group-title="Uploaded by @JAPONI",BAD DREAMS (2021) HD
 http://188.34.200.187/hls/52ab999945bfa379ba23af4f7abee73b/52ab999945bfa379ba23af4f7abee73b.m3u8
+#EXTINF:0 tvg-id="e" group-title="Uploaded by @JAPONI",The Love Birds (2021) HD
+http://188.34.200.187/hls/1729720795d5f3bd8b0d061e6f37ecd2/1729720795d5f3bd8b0d061e6f37ecd2.m3u8
+#EXTINF:0 tvg-id="e" group-title="Uploaded by @JAPONI",The Souvenir (2021) HD
+http://188.34.200.187/hls/4fd81fbdf31fda5765181470be6a8ddd/4fd81fbdf31fda5765181470be6a8ddd.m3u8
