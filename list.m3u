@@ -5,8 +5,6 @@ https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
 https://raw.githubusercontent.com/saqoah/data/main/EQuran.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=14mzOvVrvlYQWhK0PzmetucjqvnBfOnG&fmode=download",Premium Plus
 https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=5uNOF5LRlrVx8L7L4ZckvPCFRXLWPBVI&fmode=download",VIP في آي بي
-https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=2Aaa1y0mzaYz6fWdnUQ4GHvhRbyRscUV&fmode=download",قنوات جزائرية dz channels
 https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=0S38H92uVaXl53U98HtIQlBx1nKYC3jh&fmode=download",بابور اللوح babourellouh
@@ -15,7 +13,9 @@ https://raw.githubusercontent.com/saqoah/data/main/alpha.m3u
 https://raw.githubusercontent.com/saqoah/data/main/harga.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=2OOVcJGDzLoGgNv9nyY2A2lkloFZkCRt&fmode=download",سولو دموعي solo dmo3i
 https://raw.githubusercontent.com/saqoah/data/main/solo.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=mMhdESsHcLp1Od2BlXvlLZGsPAbNl4QH&fmode=download",En Movies  بلونقلي
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://tokyo.nl/wp-content/uploads/2014/10/manga-tekeningen.jpg",anime 
+https://raw.githubusercontent.com/saqoah/data/main/anime.m3u
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=mMhdESsHcLp1Od2BlXvlLZGsPAbNl4QH&fmode=download",en movies  بلونقلي
 https://raw.githubusercontent.com/saqoah/data/main/Converted.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=b9VsVEJFD0BNP0QwDYlWVYhW90bVH50j&fmode=download",Films FR بالفرونسي
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=b9VsVEJFD0BNP0QwDYlWVYhW90bVH50j&fmode=download",films fr بالفرونسي
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
