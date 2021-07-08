@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/saqoah/data/main/harga.m3u
 https://raw.githubusercontent.com/saqoah/data/main/solo.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://tokyo.nl/wp-content/uploads/2014/10/manga-tekeningen.jpg",anime أنيمي
 https://raw.githubusercontent.com/saqoah/data/main/anime.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://clarionindia.net/portal/wp-content/uploads/2017/12/filming.jpg",documentaire
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://clarionindia.net/portal/wp-content/uploads/2017/12/filming.jpg",documentary fr أفلام وثائقية
 https://raw.githubusercontent.com/saqoah/data/main/documentaire.m3u
 #EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=mMhdESsHcLp1Od2BlXvlLZGsPAbNl4QH&fmode=download",en movies  بلونقلي
 https://raw.githubusercontent.com/saqoah/data/main/Converted.m3u
