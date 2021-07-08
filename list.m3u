@@ -1,18 +1,21 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://media-exp3.licdn.com/dms/image/C511BAQHSKFHnKxp3nQ/company-background_10000/0/1519808400431?e=2159024400&v=beta&t=k6DZrcogpL_WrcQt8uSId9_lkidwgWXP13Wvbmn8kIk",http://edd.news/zkara
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=sMHsRuCVT1IW8BxhUo4SB9JVsd1gOwQp&fmode=download",www.213.one
 https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
-
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://en.shafaqna.com/wp-content/uploads/2018/03/is-15.jpg",mp3Quran.net المكتبة الصوتية للقرآن الكريم
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=s4Hmx4crTlO7V0Zm6Pmq2qfjPtKt8LrQ&fmode=download",mp3Quran.net المكتبة الصوتية للقرآن الكريم
 https://raw.githubusercontent.com/saqoah/data/main/EQuran.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://www.saphirnews.com/photo/art/grande/54622241-41080625.jpg",قنوات جزائرية dz channels
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=14mzOvVrvlYQWhK0PzmetucjqvnBfOnG&fmode=download",Premium Plus
+https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=5uNOF5LRlrVx8L7L4ZckvPCFRXLWPBVI&fmode=download",VIP في آي بي
+https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=2Aaa1y0mzaYz6fWdnUQ4GHvhRbyRscUV&fmode=download",قنوات جزائرية dz channels
 https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://deadline.com/wp-content/uploads/2019/10/tom-and-jerry.jpg",بابور اللوح babourellouh
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=0S38H92uVaXl53U98HtIQlBx1nKYC3jh&fmode=download",بابور اللوح babourellouh
 https://raw.githubusercontent.com/saqoah/data/main/alpha.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://pictures.artify.tn/media/md5rdypmlqgjfglwmmgd.jpg",harga مسلسل حرقة
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=ZafoZpXFECWeUDPNibHavLYI4sqt2c6x&fmode=download",harga مسلسل حرقة
 https://raw.githubusercontent.com/saqoah/data/main/harga.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://etbilarabi.com/sites/default/files/styles/facebook_metatag/public/2021-07/Untitled.jpg",سولو دموعي solo dmo3i
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=2OOVcJGDzLoGgNv9nyY2A2lkloFZkCRt&fmode=download",سولو دموعي solo dmo3i
 https://raw.githubusercontent.com/saqoah/data/main/solo.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://asset20.ckassets.com/blog/wp-content/uploads/sites/5/2018/03/%5E4FFC776285C1EBA7B228C474E38AF45DD3B9672CD3265C48EB%5Epimgpsh_fullsize_distr.jpg",english movies أفلام أجنبية
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=mMhdESsHcLp1Od2BlXvlLZGsPAbNl4QH&fmode=download",En Movies  بلونقلي
 https://raw.githubusercontent.com/saqoah/data/main/Converted.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="e",Film FR (Test)
+#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=b9VsVEJFD0BNP0QwDYlWVYhW90bVH50j&fmode=download",Films FR بالفرونسي
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
