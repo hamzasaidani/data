@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 tvg-id="https://www.themoviedb.org/t/p/original/2jXGvDzHNbJmsnuWrj6bQ3PHrw8.jpg" tvg-logo="Documentaire" group-title="Uploaded by @PPN",Wonder Boy, Olivier Rousteing, né sous X (2021) HD
+http://188.34.200.187/hls/566c9245ada79eaae3710bab51b35cc5/566c9245ada79eaae3710bab51b35cc5.m3u8
+#EXTINF:0 tvg-id="https://i.imgur.com/Fj8X9yH.jpg" tvg-logo="Documentaire" group-title="Uploaded by @PPN",Ada Lovelace - La Comtesse De L'informatique (2015) HD
+http://188.34.200.187/hls/a2f39ac1da16f214dc4266c933a8ac85/a2f39ac1da16f214dc4266c933a8ac85.m3u8
+#EXTINF:0 tvg-id="https://i.imgur.com/ke2AjPc.png" tvg-logo="Documentaire" group-title="Uploaded by @PPN",Notre planète a ses limites : L'alerte de la science (2021) HD
+http://188.34.200.187/hls/5dd731265c20168e4a9c49f7fc2fea57/5dd731265c20168e4a9c49f7fc2fea57.m3u8
+#EXTINF:0 tvg-id="https://www.themoviedb.org/t/p/original/wDG6K0uLtJvJyp1cJmluqjBh79v.jpg" tvg-logo="Documentaire" group-title="Uploaded by @PPN",The Dissident (2021) HD
+http://188.34.200.187/hls/e70f756a31478b71b40a5e52292b7207/e70f756a31478b71b40a5e52292b7207.m3u8
+#EXTINF:0 tvg-id="https://i.imgur.com/jlvqFBW.png" tvg-logo="Documentaire" group-title="Uploaded by @PPN",Varsity Blues : Le scandale des ad... (2021) HD
+http://188.34.200.187/hls/260924028b482c7afba12c03187d6c46/260924028b482c7afba12c03187d6c46.m3u8
+#EXTINF:0 tvg-id="https://i.imgur.com/dwLBKRd.png" tvg-logo="Documentaire" group-title="Uploaded by @PPN",Crack : Cocaïne, corruption et conspiration (2021) HD
+http://188.34.200.187/hls/e531e0c7e039fd80a2e7c6c136e57343/e531e0c7e039fd80a2e7c6c136e57343.m3u8
+#EXTINF:0 tvg-id="https://information.tv5monde.com/sites/info.tv5monde.com/files/styles/large/public/assets/images/hold-up2.png" tvg-logo="Documentaire" group-title="Uploaded by @PPN",HOLD-UP (2020) HD
+http://188.34.200.187/hls/4f317c9351b6c0d228dbfd95989591cb/4f317c9351b6c0d228dbfd95989591cb.m3u8
+#EXTINF:0 tvg-id="https://i.imgur.com/PfjvMFp.png" tvg-logo="Documentaire" group-title="Uploaded by @PPN",L'affaire Watts : chronique d'une tuerie familiale (2020) HD
+http://188.34.200.187/hls/a574b1085057cd40ba151230ba24cf44/a574b1085057cd40ba151230ba24cf44.m3u8
+#EXTINF:0 tvg-id="https://image.tmdb.org/t/p/original/kM1r6aZlvvngQYnFv8laAnEbdEZ.jpg" tvg-logo="Documentaire" group-title="Uploaded by @PPN",2040 (2020) HD
+http://188.34.200.187/hls/ef07a4faab796bfcff9ffabc47f339de/ef07a4faab796bfcff9ffabc47f339de.m3u8
+#EXTINF:0 tvg-id="https://www.themoviedb.org/t/p/original/hjgMWoMQ2Gx4REWqOvMSQpSXiuM.jpg" tvg-logo="Documentaire" group-title="Uploaded by @PPN",Plongée dans le Monde des Dauphins (2020) HD
+http://188.34.200.187/hls/54e84d0fb264f100a28ea3a9ed29c7e5/54e84d0fb264f100a28ea3a9ed29c7e5.m3u8
