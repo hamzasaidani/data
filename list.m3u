@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",www.213.one
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",www.213.one
 https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",mp3Quran.net المكتبة الصوتية للقرآن الكريم
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",mp3Quran.net
 https://raw.githubusercontent.com/saqoah/data/main/EQuran.m3u
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",Premium Plus
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",Premium Plus
 https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",قنوات جزائرية dz channels
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",dz channels
 https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",بابور اللوح babourellouh
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",babourellouh
 https://raw.githubusercontent.com/saqoah/data/main/alpha.m3u
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",harga مسلسل حرقة
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",harga
 https://raw.githubusercontent.com/saqoah/data/main/harga.m3u
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",سولو دموعي solo dmo3i
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",solo dmo3i
 https://raw.githubusercontent.com/saqoah/data/main/solo.m3u
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",anime أنيمي
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",anime
 https://raw.githubusercontent.com/saqoah/data/main/anime.m3u
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",documentary fr أفلام وثائقية
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",documentary
 https://raw.githubusercontent.com/saqoah/data/main/documentaire.m3u
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",en movies  بلونقلي
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",en movies
 https://raw.githubusercontent.com/saqoah/data/main/Converted.m3u
-#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",films fr بالفرونسي
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="",films fr
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
