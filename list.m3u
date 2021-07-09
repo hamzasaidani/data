@@ -1,23 +1,23 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=sMHsRuCVT1IW8BxhUo4SB9JVsd1gOwQp&fmode=download",www.213.one
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",www.213.one
 https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=s4Hmx4crTlO7V0Zm6Pmq2qfjPtKt8LrQ&fmode=download",mp3Quran.net المكتبة الصوتية للقرآن الكريم
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",mp3Quran.net المكتبة الصوتية للقرآن الكريم
 https://raw.githubusercontent.com/saqoah/data/main/EQuran.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=14mzOvVrvlYQWhK0PzmetucjqvnBfOnG&fmode=download",Premium Plus
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",Premium Plus
 https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=2Aaa1y0mzaYz6fWdnUQ4GHvhRbyRscUV&fmode=download",قنوات جزائرية dz channels
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",قنوات جزائرية dz channels
 https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=0S38H92uVaXl53U98HtIQlBx1nKYC3jh&fmode=download",بابور اللوح babourellouh
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",بابور اللوح babourellouh
 https://raw.githubusercontent.com/saqoah/data/main/alpha.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=ZafoZpXFECWeUDPNibHavLYI4sqt2c6x&fmode=download",harga مسلسل حرقة
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",harga مسلسل حرقة
 https://raw.githubusercontent.com/saqoah/data/main/harga.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=2OOVcJGDzLoGgNv9nyY2A2lkloFZkCRt&fmode=download",سولو دموعي solo dmo3i
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",سولو دموعي solo dmo3i
 https://raw.githubusercontent.com/saqoah/data/main/solo.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://tokyo.nl/wp-content/uploads/2014/10/manga-tekeningen.jpg",anime أنيمي
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",anime أنيمي
 https://raw.githubusercontent.com/saqoah/data/main/anime.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://clarionindia.net/portal/wp-content/uploads/2017/12/filming.jpg",documentary fr أفلام وثائقية
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",documentary fr أفلام وثائقية
 https://raw.githubusercontent.com/saqoah/data/main/documentaire.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=mMhdESsHcLp1Od2BlXvlLZGsPAbNl4QH&fmode=download",en movies  بلونقلي
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",en movies  بلونقلي
 https://raw.githubusercontent.com/saqoah/data/main/Converted.m3u
-#EXTINF:-1 tvg-id="HomeList" group-title="Group" tvg-logo="https://213.one/dz-server/wl/?id=b9VsVEJFD0BNP0QwDYlWVYhW90bVH50j&fmode=download",films fr بالفرونسي
+#EXTINF:0 tvg-id="HomeList" group-title="Group" tvg-logo="",films fr بالفرونسي
 https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
