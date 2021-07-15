@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=sMHsRuCVT1IW8BxhUo4SB9JVsd1gOwQp&fmode=download" group-title="",www.213.one
-https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
-#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=s4Hmx4crTlO7V0Zm6Pmq2qfjPtKt8LrQ&fmode=download" group-title="",mp3Quran.net
-https://raw.githubusercontent.com/saqoah/data/main/EQuran.m3u
-#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=14mzOvVrvlYQWhK0PzmetucjqvnBfOnG&fmode=download" group-title="",Premium Plus
-https://raw.githubusercontent.com/saqoah/data/main/aa.m3u
-#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=2Aaa1y0mzaYz6fWdnUQ4GHvhRbyRscUV&fmode=download" group-title="",dz channels
-https://raw.githubusercontent.com/saqoah/data/main/arabic.m3u
-#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=0S38H92uVaXl53U98HtIQlBx1nKYC3jh&fmode=download" group-title="",babourellouh
+#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=sMHsRuCVT1IW8BxhUo4SB9JVsd1gOwQp&fmode=download" group-title="",www.213.one الموقع الرسمي
+https://213.one/dz-server/wl/?id=XYKd4ExQZkIYpPlUL3kuSoK8XDYrdOR5&fmode=download
+#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=s4Hmx4crTlO7V0Zm6Pmq2qfjPtKt8LrQ&fmode=download" group-title="",mp3Quran.net المكتبة الصوتية للقرآن الكريم
+https://213.one/dz-server/wl/?id=JaZMv8Y9yICvwwZ0cNAUupSEDe5M6c9P&fmode=download
+#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=14mzOvVrvlYQWhK0PzmetucjqvnBfOnG&fmode=download" group-title="",Premium Plus بريميوم بلاس
+https://213.one/dz-server/wl/?id=XYKd4ExQZkIYpPlUL3kuSoK8XDYrdOR5&fmode=download
+#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=2Aaa1y0mzaYz6fWdnUQ4GHvhRbyRscUV&fmode=download" group-title="",dz channels قنوات جزائرية
+https://213.one/dz-server/wl/?id=FZQuICDsQdHRUoIQIAvGUmjtLmGQYmFZ&fmode=download
+#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=0S38H92uVaXl53U98HtIQlBx1nKYC3jh&fmode=download" group-title="",babourellouh بابور اللوح
 https://213.one/dz-server/wl/?id=7Agja262VU88iZyiQdIA4BUzSpGoalx7&fmode=download
-#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=ZafoZpXFECWeUDPNibHavLYI4sqt2c6x&fmode=download" group-title="",harga
-https://raw.githubusercontent.com/saqoah/data/main/harga.m3u
-#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=2OOVcJGDzLoGgNv9nyY2A2lkloFZkCRt&fmode=download" group-title="",solo dmo3i
-https://raw.githubusercontent.com/saqoah/data/main/solo.m3u
-#EXTINF:0 tvg-id="" tvg-logo="https://tokyo.nl/wp-content/uploads/2014/10/manga-tekeningen.jpg" group-title="",anime
-https://raw.githubusercontent.com/saqoah/data/main/anime.m3u
-#EXTINF:0 tvg-id="" tvg-logo="https://clarionindia.net/portal/wp-content/uploads/2017/12/filming.jpg" group-title="",documentary
-https://raw.githubusercontent.com/saqoah/data/main/documentaire.m3u
-#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=mMhdESsHcLp1Od2BlXvlLZGsPAbNl4QH&fmode=download" group-title="",en movies
-https://raw.githubusercontent.com/saqoah/data/main/Converted.m3u
-#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=b9VsVEJFD0BNP0QwDYlWVYhW90bVH50j&fmode=download" group-title="",films fr
-https://raw.githubusercontent.com/saqoah/data/main/ConvertedArabic.m3u
+#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=ZafoZpXFECWeUDPNibHavLYI4sqt2c6x&fmode=download" group-title="",harga حرقة 
+https://213.one/dz-server/wl/?id=HMYcoTAkRhkLLWR29Hneq8qcuy5qslKP&fmode=download
+#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=2OOVcJGDzLoGgNv9nyY2A2lkloFZkCRt&fmode=download" group-title="",solo dmo3i سولو دموعي
+https://213.one/dz-server/wl/?id=XBfytJGHDqx2T0byRYWld4hrKs9sZ5sf&fmode=download
+#EXTINF:0 tvg-id="" tvg-logo="https://tokyo.nl/wp-content/uploads/2014/10/manga-tekeningen.jpg" group-title="",anime أنمي
+https://213.one/dz-server/wl/?id=xY8hkzjd4JKAKXRoKibOgIDr9qMgENky&fmode=download
+#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=mMhdESsHcLp1Od2BlXvlLZGsPAbNl4QH&fmode=download" group-title="",en movies أفلام بلونقلي
+https://213.one/dz-server/wl/?id=TxiV7ogRSQR132QmYKYE07B9o5Rixwfc&fmode=download
+#EXTINF:0 tvg-id="" tvg-logo="https://213.one/dz-server/wl/?id=b9VsVEJFD0BNP0QwDYlWVYhW90bVH50j&fmode=download" group-title="",films fr أفلام بالفرونسي
+https://213.one/dz-server/wl/?id=KnyPbuj66EASYneXVY8QmLTuKwf4jStY&fmode=download
+#EXTINF:0 tvg-id="" tvg-logo="https://clarionindia.net/portal/wp-content/uploads/2017/12/filming.jpg" group-title="",documentary أفلام وثائقية
+https://213.one/dz-server/wl/?id=E66hju9LRIbktefYjk0OiYR8vMtg6pvf&fmode=download
+#EXTINF:0 tvg-id="" tvg-logo="https://www.foodbusinessnews.net/ext/resources/2019/6/MiddleEastCuisine1200x8001.jpg" group-title="",kitchen مطبخ 
+https://213.one/dz-server/wl/?id=XYKd4ExQZkIYpPlUL3kuSoK8XDYrdOR5&fmode=download
