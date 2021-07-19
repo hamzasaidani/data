@@ -1,6 +1,6 @@
 <?php
 $res = '';
-$res = "#EXTINF:-1 tvg-id=\"" . $_GET[id] . "\" group-title=\"" . $_GET[group] . "\" tvg-logo=\"" . $_GET[logo] . "\"," . $_GET[title];
+$res = "#EXTINF:-1 tvg-id=\"" . $_GET[id] . "\" group-title=\"" . $_GET[group] . "\" tvg-logo=\"" . $_GET[logo] . "\"," . $_GET[title] . "\n" . $_GET[url] . "\n"
 echo $res;
 file_put_contents('free_playlist.m3u',$res,FILE_APPEND);
 ?>
